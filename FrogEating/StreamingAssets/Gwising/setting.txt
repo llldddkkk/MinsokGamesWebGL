@@ -1,0 +1,15 @@
+# 중심 잡기 속도 (입력 반응 속도)
+balance_speed = 5.0
+
+# 최대 기울기 각도 (도)
+max_tilt_angle = 30.0
+
+# 흔들림 속도 (흔들림 주기, 값이 클수록 빠르게 흔들림)
+tilt_speed = 2.0
+
+# 배경 스크롤 속도 (픽셀/초)
+background_speed = 100.0
+
+# 중심 복구 속도 (입력 반응 속도)
+balance_recovery_rate = 5.0
+
