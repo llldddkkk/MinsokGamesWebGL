@@ -8,7 +8,7 @@
 - **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/FrogEating/
 
 ### 눈싸움
-- **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/SnowballFight/
+- **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/SnowBallFight/
 
 ### 사과따기
 - **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/ApplePicking/
