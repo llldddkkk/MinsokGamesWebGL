@@ -1,0 +1,6 @@
+# 사과 생성 간격 (초)
+spawn_interval = 2.0
+
+# 게이지 감소 속도 (1초에 감소하는 게이지 값)
+gauge_decrease_rate = 1.0
+
