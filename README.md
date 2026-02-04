@@ -18,3 +18,6 @@
 
 ### 색맞추기
 - **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/ColorMatching/
+
+### 보리타작
+- **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/GrainHarvest/
