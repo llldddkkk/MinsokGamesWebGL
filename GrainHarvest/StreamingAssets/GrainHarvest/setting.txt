@@ -1,2 +1,2 @@
-# 플레이 제한 시간 (초). 예: 120 = 2분
-play_time_seconds|120
+# 플레이 제한 시간 (초). 예: 60 = 1분
+play_time_seconds|60
