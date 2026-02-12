@@ -21,3 +21,6 @@
 
 ### 보리타작
 - **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/GrainHarvest/
+
+### 민화퍼즐
+- **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/MinhwaPuzzle/
