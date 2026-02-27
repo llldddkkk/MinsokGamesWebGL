@@ -27,3 +27,6 @@
 
 ### 모내기
 - **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/Monaegi/
+
+### 견우직녀상봉
+- **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/GyeonwooJiknyeo/
