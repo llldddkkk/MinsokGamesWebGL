@@ -30,3 +30,6 @@
 
 ### 견우직녀상봉
 - **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/GyeonwooJiknyeo/
+
+### 탈놀이 빙고
+- **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/Bingo/
