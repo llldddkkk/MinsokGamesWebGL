@@ -5,5 +5,5 @@ background_speed = 100.0
 balance_recovery_rate = 5.0
 
 # 쓰러지는 가속도 (입력 없을 때 쓰러지는 속도, 값이 클수록 빠르게 쓰러짐 - 난이도 상승)
-fall_acceleration = 0.5
+fall_acceleration = 0.4
 
