@@ -2,7 +2,7 @@
 spawn_interval = 1.5
 
 # 눈뭉치 이동 속도 (픽셀/초)
-snowball_speed = 400
+snowball_speed = 250
 
 # 캐릭터 이동 속도 (픽셀/초)
 character_speed = 600
