@@ -33,3 +33,6 @@
 
 ### 탈놀이 빙고
 - **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/Bingo/
+  
+### 삼계탕 만들기
+- **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/Samgyetang/
