@@ -59,9 +59,9 @@
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/MinhwaPuzzle.loader.js";
       var config = {
-        dataUrl: buildUrl + "/MinhwaPuzzle.data",
-        frameworkUrl: buildUrl + "/MinhwaPuzzle.framework.js",
-        codeUrl: buildUrl + "/MinhwaPuzzle.wasm",
+        dataUrl: buildUrl + "/MinhwaPuzzle.data.unityweb",
+        frameworkUrl: buildUrl + "/MinhwaPuzzle.framework.js.unityweb",
+        codeUrl: buildUrl + "/MinhwaPuzzle.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "MinsokGames",
@@ -108,7 +108,7 @@
               }).then((unityInstance) => {
                 loadingBar.style.display = "none";
                 fullscreenButton.onclick = () => {
-                  unityInstance.SetFullscreen(1);
+                  document.makeFullscreen('unity-container');
                 };
               }).catch((message) => {
                 alert(message);

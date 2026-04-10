@@ -1,0 +1,12 @@
+# MinhwaPuzzle 스테이지 선택 설정
+# 한 줄 = 한 스테이지(슬라이더 슬롯)
+# 포맷:
+# group=1|stage=0|name=그림이름|difficulty=3
+
+# Group 1 (5)
+group=1 | stage=0 | name=그룹1-그림1 | difficulty=1
+group=1 | stage=1 | name=그룹1-그림2 | difficulty=4
+
+# Group 2 (5)
+group=2 | stage=0 | name=그룹2-그림1 | difficulty=2
+group=2 | stage=1 | name=그룹2-그림2 | difficulty=3
