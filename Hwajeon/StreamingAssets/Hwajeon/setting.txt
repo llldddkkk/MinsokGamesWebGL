@@ -1,0 +1,3 @@
+# Hwajeon (화전만들기) default setting — 삼계탕과 동일 키로 밸런스 조정 가능
+cooking_duration = 10
+cook_shake_count = 30
