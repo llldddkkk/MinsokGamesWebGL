@@ -43,3 +43,6 @@
 
 ### 화전만들기
 - **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/Hwajeon/
+
+### 냉면만들기
+- **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/Naengmyeon/
