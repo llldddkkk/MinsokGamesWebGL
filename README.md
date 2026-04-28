@@ -46,3 +46,6 @@
 
 ### 냉면만들기
 - **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/Naengmyeon/
+
+### 콩볶기
+- **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/Kongbokgi/
