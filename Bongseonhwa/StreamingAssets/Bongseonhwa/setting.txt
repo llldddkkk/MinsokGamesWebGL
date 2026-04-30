@@ -1,0 +1,2 @@
+# 봉선화물들이기 설정 키
+cook_shake_count = 30
