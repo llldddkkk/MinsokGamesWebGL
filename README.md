@@ -52,3 +52,6 @@
 
 ### 봉선화물들이기
 - **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/Bongseonhwa/
+
+### 김장하기
+- **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/Kimjang/
