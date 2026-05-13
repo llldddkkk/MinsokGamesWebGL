@@ -4,9 +4,15 @@
 # group=1|stage=0|name=그림이름|difficulty=3
 
 # Group 1 (5)
-group=1 | stage=0 | name=그룹1-그림1 | difficulty=1
-group=1 | stage=1 | name=그룹1-그림2 | difficulty=4
+group=1 | stage=0 | name=달맞이 | difficulty=1
+group=1 | stage=1 | name=정월풍속 | difficulty=2
+group=1 | stage=2 | name=벼타작소리 | difficulty=3
+group=1 | stage=3 | name=추심 | difficulty=4
+group=1 | stage=4 | name=총성도 | difficulty=5
 
 # Group 2 (5)
-group=2 | stage=0 | name=그룹2-그림1 | difficulty=2
-group=2 | stage=1 | name=그룹2-그림2 | difficulty=3
+group=2 | stage=5 | name=석가탄신일 | difficulty=1
+group=2 | stage=6 | name=두 명의 한국 아이들 | difficulty=2
+group=2 | stage=7 | name=아침 안내 | difficulty=3
+group=2 | stage=8 | name=원산 학자와 그 제자들 | difficulty=4
+group=2 | stage=9 | name=평양의 동문 | difficulty=5
