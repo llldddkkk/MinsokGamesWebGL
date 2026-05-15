@@ -55,3 +55,6 @@
 
 ### 김장하기
 - **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/Kimjang/
+
+### 장보기
+- **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/Jangbogi/
