@@ -1,0 +1,86 @@
+[
+ {
+  "QUESTION": "1_우리나라 명절이 아닌 날은 언제일까요?",
+  "ANSWER": "정답",
+  "INCORRECT_ANSWER_1": "설",
+  "INCORRECT_ANSWER_2": "추석",
+  "INCORRECT_ANSWER_3": "대보름"
+ },
+ {
+  "QUESTION": "2_다음 중 세배를 드리는 명절은 언제일까요?",
+  "ANSWER": "정답",
+  "INCORRECT_ANSWER_1": "추석",
+  "INCORRECT_ANSWER_2": "대보름",
+  "INCORRECT_ANSWER_3": "한식"
+ },
+ {
+  "QUESTION": "3_세뱃돈은 복을 준다는 의미에서 ○○이라고 부르기도 해요. ○안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "정답",
+  "INCORRECT_ANSWER_1": "세복",
+  "INCORRECT_ANSWER_2": "설복",
+  "INCORRECT_ANSWER_3": "설돈"
+ },
+ {
+  "QUESTION": "4_설에 먹는 음식은 ○○이라고 부르기도 해요. ○안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "정답",
+  "INCORRECT_ANSWER_1": "설찬",
+  "INCORRECT_ANSWER_2": "새찬",
+  "INCORRECT_ANSWER_3": "배찬"
+ },
+ {
+  "QUESTION": "5_새해 첫날 아침 일찍 밖으로 나가 처음 듣는 짐승 소리로 한 해의 운세를 알아보는 풍속은 무엇일까요?",
+  "ANSWER": "정답",
+  "INCORRECT_ANSWER_1": "새참",
+  "INCORRECT_ANSWER_2": "제웅",
+  "INCORRECT_ANSWER_3": "직성"
+ },
+ {
+  "QUESTION": "6_추석에 조상께 차례를 지내며 감사의 마음을 전하는 풍속을 무엇이라고 할까요?",
+  "ANSWER": "정답",
+  "INCORRECT_ANSWER_1": "성묘",
+  "INCORRECT_ANSWER_2": "세배",
+  "INCORRECT_ANSWER_3": "제사"
+ },
+ {
+  "QUESTION": "7_추석에 보름달을 보며 소원을 빌거나 가족과 함께하는 풍속을 무엇이라고 할까요?",
+  "ANSWER": "정답",
+  "INCORRECT_ANSWER_1": "줄다리기",
+  "INCORRECT_ANSWER_2": "그네뛰기",
+  "INCORRECT_ANSWER_3": "연날리기"
+ },
+ {
+  "QUESTION": "8_한복에서 저고리와 치마를 이어 붙인 옷을 무엇이라고 할까요?",
+  "ANSWER": "정답",
+  "INCORRECT_ANSWER_1": "마고자",
+  "INCORRECT_ANSWER_2": "바지",
+  "INCORRECT_ANSWER_3": "조끼"
+ },
+ {
+  "QUESTION": "9_명절에 조상께 올리는 음식을 한꺼번에 무엇이라고 부를까요?",
+  "ANSWER": "정답",
+  "INCORRECT_ANSWER_1": "상차림",
+  "INCORRECT_ANSWER_2": "밥상",
+  "INCORRECT_ANSWER_3": "제상"
+ },
+ {
+  "QUESTION": "10_설날 아침에 먹는 국수 요리는 무엇일까요?",
+  "ANSWER": "정답",
+  "INCORRECT_ANSWER_1": "잔치국수",
+  "INCORRECT_ANSWER_2": "칼국수",
+  "INCORRECT_ANSWER_3": "수제비"
+ },
+ {
+  "QUESTION": "11_추석에 송편을 빚을 때 넣기도 하는 재료가 아닌 것은 무엇일까요?",
+  "ANSWER": "정답",
+  "INCORRECT_ANSWER_1": "콩",
+  "INCORRECT_ANSWER_2": "깨",
+  "INCORRECT_ANSWER_3": "밤"
+ },
+ {
+  "QUESTION": "12_윷놀이에서 '윷'이 네 개 모두 앞면이 나왔을 때 부르는 이름은?",
+  "ANSWER": "정답",
+  "INCORRECT_ANSWER_1": "도",
+  "INCORRECT_ANSWER_2": "개",
+  "INCORRECT_ANSWER_3": "걸"
+ }
+]
