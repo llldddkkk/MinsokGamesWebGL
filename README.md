@@ -61,3 +61,6 @@
 
 ### 옷입히기
 - **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/Dressup/
+
+### 퀴즈왕
+- **URL**: https://llldddkkk.github.io/MinsokGamesWebGL/Quizking/
