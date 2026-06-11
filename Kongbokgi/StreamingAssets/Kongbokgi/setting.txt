@@ -1,3 +1,3 @@
 # Kongbokgi (콩볶기) default setting
 # game_duration: 플레이 총 제한 시간(초). 0이 되면 게임 종료 후 결과 화면에 누적 점수 표시.
-game_duration = 180
+game_duration = 120
