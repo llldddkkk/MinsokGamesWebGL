@@ -1,0 +1,2 @@
+# Samgyetang default setting
+cooking_duration = 10
