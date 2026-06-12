@@ -1,86 +1,1556 @@
 [
  {
-  "QUESTION": "1_우리나라 명절이 아닌 날은 언제일까요?",
-  "ANSWER": "정답",
-  "INCORRECT_ANSWER_1": "설",
-  "INCORRECT_ANSWER_2": "추석",
-  "INCORRECT_ANSWER_3": "대보름"
+  "QUESTION": "한 해의 첫 번째 달을 OO이라고 불러요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "정월",
+  "INCORRECT_ANSWER_1": "입추",
+  "INCORRECT_ANSWER_2": "새해",
+  "INCORRECT_ANSWER_3": "동지"
  },
  {
-  "QUESTION": "2_다음 중 세배를 드리는 명절은 언제일까요?",
-  "ANSWER": "정답",
-  "INCORRECT_ANSWER_1": "추석",
-  "INCORRECT_ANSWER_2": "대보름",
+  "QUESTION": "OOOOO일은 쥐, 소, 호랑이, 토끼, 용, 뱀, 말, 양, 원숭이, 닭, 개, 돼지의 날이 차례로 이어지고, 그날이 어떤 동물의 날인지에 따라 해야 할 일과 하지 말아야 할 일을 정했어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "정초십이지",
+  "INCORRECT_ANSWER_1": "십이지동물",
+  "INCORRECT_ANSWER_2": "정초여드레",
+  "INCORRECT_ANSWER_3": "정초아흐레"
+ },
+ {
+  "QUESTION": "곡식날에는 한 해 OO가 잘되기를 바라는 마음이 담겨 있어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "농사",
+  "INCORRECT_ANSWER_1": "공사",
+  "INCORRECT_ANSWER_2": "장사",
+  "INCORRECT_ANSWER_3": "황사"
+ },
+ {
+  "QUESTION": "춘일 아침에는 우물물로 OO밥을 지어 조상들에게 제사를 지냈어요. OO밥은 쌀, 보리, 조, 콩, 기장의 다섯 가지 곡식을 섞어 지은 밥이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "오곡",
+  "INCORRECT_ANSWER_1": "이곡",
+  "INCORRECT_ANSWER_2": "삼곡",
+  "INCORRECT_ANSWER_3": "사곡"
+ },
+ {
+  "QUESTION": "작음보름은 음력 1월 15일인 대보름을 하루 앞둔 음력 1월 O일이에요. O안에 들어갈 숫자는 무엇일까요?",
+  "ANSWER": "14",
+  "INCORRECT_ANSWER_1": "13",
+  "INCORRECT_ANSWER_2": "15",
+  "INCORRECT_ANSWER_3": "16"
+ },
+ {
+  "QUESTION": "귀신날 저녁에는 고추씨나 머리카락을 태워 냄새와 연기로 OO을 쫓고, 널뛰기나 윷놀이를 하며 큰 소리를 내어 OO을 물리쳤어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "귀신",
+  "INCORRECT_ANSWER_1": "사람",
+  "INCORRECT_ANSWER_2": "친구",
+  "INCORRECT_ANSWER_3": "부모"
+ },
+ {
+  "QUESTION": "당제는 보통 음력 1월 15일인 OOO 무렵 밤에 지내요. OOO은 한 해의 첫 보름달이 뜨는 특별한 날이기 때문이에요. 안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "대보름",
+  "INCORRECT_ANSWER_1": "초하루",
+  "INCORRECT_ANSWER_2": "생일날",
+  "INCORRECT_ANSWER_3": "초파일"
+ },
+ {
+  "QUESTION": "본향당굿에서는 OO로 만든 돈인 ‘지전’이나 특별한 물건을 당나무에 걸고, 소원을 빌기도 해요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "종이",
+  "INCORRECT_ANSWER_1": "나무",
+  "INCORRECT_ANSWER_2": "고무",
+  "INCORRECT_ANSWER_3": "금속"
+ },
+ {
+  "QUESTION": "서해안배연신굿 및 대동굿은 OOO가 많이 잡히기를 바라며 지내는 굿이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "물고기",
+  "INCORRECT_ANSWER_1": "고구마",
+  "INCORRECT_ANSWER_2": "비둘기",
+  "INCORRECT_ANSWER_3": "코끼리"
+ },
+ {
+  "QUESTION": "위도띠뱃놀이에는 한 해 동안 OO들이 무사하고, OO이 풍요롭기를 바라는 마음이 담겨 있어요. O안에 들어갈 말을 차례대로 나열한 것은 무엇일까요?",
+  "ANSWER": "어부, 마을",
+  "INCORRECT_ANSWER_1": "농부, 호박",
+  "INCORRECT_ANSWER_2": "광부, 광물",
+  "INCORRECT_ANSWER_3": "상인, 시장"
+ },
+ {
+  "QUESTION": "산을 지키는 산신에게 마을에 나쁜 일이 생기지 않고, 좋은 일만 생기기를 바라며 지내는 제사를 OOO라고 불러요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "산신제",
+  "INCORRECT_ANSWER_1": "거리제",
+  "INCORRECT_ANSWER_2": "당산제",
+  "INCORRECT_ANSWER_3": "풍어제"
+ },
+ {
+  "QUESTION": "골맥이제는 OOO라고 불리는 마을 수호신에게 지내는 제사예요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "골맥이",
+  "INCORRECT_ANSWER_1": "골뱅이",
+  "INCORRECT_ANSWER_2": "돌멩이",
+  "INCORRECT_ANSWER_3": "골동품"
+ },
+ {
+  "QUESTION": "장승은 나무나 돌로 만든 사람 모양의 기둥으로, 옛날에는 마을을 지켜주는 신이자, 경계를 나타내거나 길을 알려 주는 OOO처럼 쓰였어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "표지판",
+  "INCORRECT_ANSWER_1": "메뉴판",
+  "INCORRECT_ANSWER_2": "난장판",
+  "INCORRECT_ANSWER_3": "시장판"
+ },
+ {
+  "QUESTION": "서낭신이 사는 집을 OOO이라고 불러요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "서낭당",
+  "INCORRECT_ANSWER_1": "동낭당",
+  "INCORRECT_ANSWER_2": "남낭당",
+  "INCORRECT_ANSWER_3": "북낭당"
+ },
+ {
+  "QUESTION": "솟대는 나무 기둥 위에 나무로 만든 O를 얹어 놓은 모습이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "새",
+  "INCORRECT_ANSWER_1": "말",
+  "INCORRECT_ANSWER_2": "뱀",
+  "INCORRECT_ANSWER_3": "쥐"
+ },
+ {
+  "QUESTION": "탑제는 O을 쌓아 만든 돌탑에 지내는 제사예요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "돌",
+  "INCORRECT_ANSWER_1": "불",
+  "INCORRECT_ANSWER_2": "물",
+  "INCORRECT_ANSWER_3": "흙"
+ },
+ {
+  "QUESTION": "탑제가 끝난 뒤에는 소원을 빌면서 돌탑 주위를 도는 ‘OOO’를 하거나, ‘OOOO’를 하며 집마다 다니면서 복을 빌기도 했어요. O안에 들어갈 말을 차례대로 나열한 것은 무엇일까요?",
+  "ANSWER": "탑돌이, 지신밟기",
+  "INCORRECT_ANSWER_1": "산신제, 본향당굿",
+  "INCORRECT_ANSWER_2": "탑돌이, 골맥이제",
+  "INCORRECT_ANSWER_3": "산신제, 골맥이제"
+ },
+ {
+  "QUESTION": "용왕제는 바다의 신인 OO에게 지내는 제사예요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "용왕",
+  "INCORRECT_ANSWER_1": "산신",
+  "INCORRECT_ANSWER_2": "서낭",
+  "INCORRECT_ANSWER_3": "대왕"
+ },
+ {
+  "QUESTION": "도깨비제는 마을을 지켜 달라고 OOO에게 지내는 제사예요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "도깨비",
+  "INCORRECT_ANSWER_1": "호랑이",
+  "INCORRECT_ANSWER_2": "구미호",
+  "INCORRECT_ANSWER_3": "산짐승"
+ },
+ {
+  "QUESTION": "조왕신은 OO을 지키는 신이자 OO의 불씨가 꺼지지 않도록 돌보는 불의 신이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "부엌",
+  "INCORRECT_ANSWER_1": "마당",
+  "INCORRECT_ANSWER_2": "지붕",
+  "INCORRECT_ANSWER_3": "집터"
+ },
+ {
+  "QUESTION": "OOO는 바다의 신과 배를 지켜주는 신에게 지내는 제사예요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "뱃고사",
+  "INCORRECT_ANSWER_1": "거리제",
+  "INCORRECT_ANSWER_2": "기고사",
+  "INCORRECT_ANSWER_3": "장승제"
+ },
+ {
+  "QUESTION": "농기가 세워져 있는 동안 마을 사람들은 잠시 쉬면서 한 해 OO를 준비했어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "농사",
+  "INCORRECT_ANSWER_1": "음식",
+  "INCORRECT_ANSWER_2": "장사",
+  "INCORRECT_ANSWER_3": "여행"
+ },
+ {
+  "QUESTION": "남해안별신굿은 통영과 거제도를 중심으로 한 OOO 지역에서 지내는 마을굿이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "남해안",
+  "INCORRECT_ANSWER_1": "동해안",
+  "INCORRECT_ANSWER_2": "서해안",
+  "INCORRECT_ANSWER_3": "대서양"
+ },
+ {
+  "QUESTION": "은산별신제는 OO식 제사와 무당이 하는 O이 함께 합쳐진 특별한 형태의 제사예요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "유교, 굿",
+  "INCORRECT_ANSWER_1": "불교, 굿",
+  "INCORRECT_ANSWER_2": "유교, 경",
+  "INCORRECT_ANSWER_3": "불교, 경"
+ },
+ {
+  "QUESTION": "지신밟기는 마을 사람들이 집마다 돌며 ‘OO’을 밟아서 달래는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "지신",
+  "INCORRECT_ANSWER_1": "구두",
+  "INCORRECT_ANSWER_2": "짚신",
+  "INCORRECT_ANSWER_3": "장화"
+ },
+ {
+  "QUESTION": "삼재를 막는 방법은 여러 가지가 있어요. 머리가 세 개 달린 O나 OOO가 그려진 부적을 만들거나, 삼재가 든 사람의 속옷을 태워서 나쁜 일을 막아요. O안에 들어갈 말을 차례대로 나열한 것은 무엇일까요?",
+  "ANSWER": "매, 호랑이",
+  "INCORRECT_ANSWER_1": "소, 멧돼지",
+  "INCORRECT_ANSWER_2": "쥐, 메뚜기",
+  "INCORRECT_ANSWER_3": "개, 다람쥐"
+ },
+ {
+  "QUESTION": "OOO은 나무(木), 불(火), 흙(土), 쇠(金), 물(水)을 뜻하는 한자를 조합해 한 해 운세를 알아보는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "오행점",
+  "INCORRECT_ANSWER_1": "이행점",
+  "INCORRECT_ANSWER_2": "삼행점",
+  "INCORRECT_ANSWER_3": "사행점"
+ },
+ {
+  "QUESTION": "OOOO은 『OOOO』이라는 책으로 한 해의 운세를 알아보는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "토정비결",
+  "INCORRECT_ANSWER_1": "손자병법",
+  "INCORRECT_ANSWER_2": "삼국유사",
+  "INCORRECT_ANSWER_3": "동의보감"
+ },
+ {
+  "QUESTION": "한 해 농사를 시작하기 전에, 농사에 필요한 도구를 고치고 손질하는 일을 OOOO라고 불러요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "농기수리",
+  "INCORRECT_ANSWER_1": "어구손질",
+  "INCORRECT_ANSWER_2": "공장점검",
+  "INCORRECT_ANSWER_3": "강강술래"
+ },
+ {
+  "QUESTION": "OOOO는 음력 1월에 논밭에 거름을 뿌려 땅에 영양분을 주고, 한 해 농사를 준비하는 일이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "거름내기",
+  "INCORRECT_ANSWER_1": "새끼치기",
+  "INCORRECT_ANSWER_2": "호미씻이",
+  "INCORRECT_ANSWER_3": "타작하기"
+ },
+ {
+  "QUESTION": "O줄꼬기는 O를 다룰 때 쓰는 줄을 꼬아 만드는 일이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "소",
+  "INCORRECT_ANSWER_1": "개",
+  "INCORRECT_ANSWER_2": "닭",
+  "INCORRECT_ANSWER_3": "양"
+ },
+ {
+  "QUESTION": "씨앗을 보관할 땐 습기가 생기지 않도록 OO이 잘 통하는 곳에 둬요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "바람",
+  "INCORRECT_ANSWER_1": "구름",
+  "INCORRECT_ANSWER_2": "마음",
+  "INCORRECT_ANSWER_3": "연기"
+ },
+ {
+  "QUESTION": "음력 2월은 겨울 동안 쉬었던 OO를 다시 준비하는 바쁜 달이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "농사",
+  "INCORRECT_ANSWER_1": "공부",
+  "INCORRECT_ANSWER_2": "운동",
+  "INCORRECT_ANSWER_3": "등산"
+ },
+ {
+  "QUESTION": "‘OO바람’ 때문에 쌀쌀한 ‘OO추위’가 찾아오기도 해요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "꽃샘",
+  "INCORRECT_ANSWER_1": "하늬",
+  "INCORRECT_ANSWER_2": "앞새",
+  "INCORRECT_ANSWER_3": "강한"
+ },
+ {
+  "QUESTION": "머슴날이 지나면 겨울 동안 쓰지 않던 농기구를 꺼내 정리하고, 본격적으로 OO 준비를 시작했어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "농사",
+  "INCORRECT_ANSWER_1": "겨울",
+  "INCORRECT_ANSWER_2": "장사",
+  "INCORRECT_ANSWER_3": "여름"
+ },
+ {
+  "QUESTION": "조선시대에는 중화절에 OO가 OO에게 농사에 관한 책을 바쳤어요. O안에 들어갈 말을 차례대로 나열한 것은 무엇일까요?",
+  "ANSWER": "신하, 임금",
+  "INCORRECT_ANSWER_1": "백성, 신하",
+  "INCORRECT_ANSWER_2": "임금, 신하",
+  "INCORRECT_ANSWER_3": "신하, 백성"
+ },
+ {
+  "QUESTION": "영등날은 음력 2월 1일로, OO할머니가 하늘에서 사람 사는 세상으로 내려오는 날이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "영등",
+  "INCORRECT_ANSWER_1": "삼신",
+  "INCORRECT_ANSWER_2": "조왕",
+  "INCORRECT_ANSWER_3": "증조"
+ },
+ {
+  "QUESTION": "영등신은 O를 내리고 OO을 일으켜 농사와 고기잡이를 다스리는 신이에요. O안에 들어갈 말을 차례대로 나열한 것은 무엇일까요?",
+  "ANSWER": "비, 바람",
+  "INCORRECT_ANSWER_1": "비, 벼락",
+  "INCORRECT_ANSWER_2": "비, 가뭄",
+  "INCORRECT_ANSWER_3": "비, 태양"
+ },
+ {
+  "QUESTION": "영등날OO점은 바람의 신인 영등할머니가 하늘에서 내려오고 올라갈 때, OO이 부는 모습을 살펴서 한 해 농사가 잘될지 알아보는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "바람",
+  "INCORRECT_ANSWER_1": "구름",
+  "INCORRECT_ANSWER_2": "연기",
+  "INCORRECT_ANSWER_3": "안개"
+ },
+ {
+  "QUESTION": "좀생이점은 음력 2월 6일에 OOO별을 보고 그해 농사가 잘될지 안될지를 알아보는 풍속이에요. O안에 들어갈 숫자는 무엇일까요?",
+  "ANSWER": "좀생이",
+  "INCORRECT_ANSWER_1": "점생이",
+  "INCORRECT_ANSWER_2": "점쟁이",
+  "INCORRECT_ANSWER_3": "줌생이"
+ },
+ {
+  "QUESTION": "무방수날은 ‘O 없는 날’이라고 부르기도 해요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "손",
+  "INCORRECT_ANSWER_1": "팔",
+  "INCORRECT_ANSWER_2": "목",
+  "INCORRECT_ANSWER_3": "귀"
+ },
+ {
+  "QUESTION": "꽃샘추위는 이른 봄, 꽃이 필 무렵에 찾아오는 OO 날씨를 말해요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "추운",
+  "INCORRECT_ANSWER_1": "좋은",
+  "INCORRECT_ANSWER_2": "더운",
+  "INCORRECT_ANSWER_3": "습한"
+ },
+ {
+  "QUESTION": "논가는소리는 농부와 O가 힘을 합쳐, 힘든 논갈이를 이겨내기 위해 부른 노래예요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "소",
+  "INCORRECT_ANSWER_1": "개",
+  "INCORRECT_ANSWER_2": "쥐",
+  "INCORRECT_ANSWER_3": "양"
+ },
+ {
+  "QUESTION": "밭가는소리는 쟁기로 O을 갈 때, 소에게 일을 시키며 부르는 노래예요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "밭",
+  "INCORRECT_ANSWER_1": "산",
+  "INCORRECT_ANSWER_2": "들",
+  "INCORRECT_ANSWER_3": "논"
+ },
+ {
+  "QUESTION": "가래질하기는 OO로 논이나 밭의 흙을 떠서 옮기고 나르는 일을 말해요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "가래",
+  "INCORRECT_ANSWER_1": "호미",
+  "INCORRECT_ANSWER_2": "쟁기",
+  "INCORRECT_ANSWER_3": "써레"
+ },
+ {
+  "QUESTION": "논갈이는 땅을 갈거나 흙을 뒤집어 O을 기름지게 하는 일이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "논",
+  "INCORRECT_ANSWER_1": "밭",
+  "INCORRECT_ANSWER_2": "산",
+  "INCORRECT_ANSWER_3": "들"
+ },
+ {
+  "QUESTION": "밭을 갈아엎으면 O의 힘이 좋아지고, 농작물이 잘 자라요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "땅",
+  "INCORRECT_ANSWER_1": "물",
+  "INCORRECT_ANSWER_2": "집",
+  "INCORRECT_ANSWER_3": "나"
+ },
+ {
+  "QUESTION": "써레는 긴 나무에 여러 개의 얇은 막대를 붙이고 손잡이를 단 농기구로, 여기에 줄을 매어 O가 끌도록 해요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "소",
+  "INCORRECT_ANSWER_1": "개",
+  "INCORRECT_ANSWER_2": "쥐",
+  "INCORRECT_ANSWER_3": "양"
+ },
+ {
+  "QUESTION": "음력 3월은 날씨가 따뜻해지면서 O기운이 가득하고 농사를 시작하기 좋은 때에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "봄",
+  "INCORRECT_ANSWER_1": "찬",
+  "INCORRECT_ANSWER_2": "센",
+  "INCORRECT_ANSWER_3": "잠"
+ },
+ {
+  "QUESTION": "삼짇날은 음력 O월 O일로, 따뜻한 봄바람과 함께 강남 갔던 제비가 돌아오는 날이에요. O안에 들어갈 숫자는 무엇일까요?",
+  "ANSWER": "3",
+  "INCORRECT_ANSWER_1": "1",
+  "INCORRECT_ANSWER_2": "2",
+  "INCORRECT_ANSWER_3": "4"
+ },
+ {
+  "QUESTION": "제비맞이는 음력 3월 3일인 OO날 무렵에 따뜻한 남쪽 나라에서 돌아오는 제비를 맞이하는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "삼짇",
+  "INCORRECT_ANSWER_1": "좋은",
+  "INCORRECT_ANSWER_2": "나쁜",
   "INCORRECT_ANSWER_3": "한식"
  },
  {
-  "QUESTION": "3_세뱃돈은 복을 준다는 의미에서 ○○이라고 부르기도 해요. ○안에 들어갈 말은 무엇일까요?",
-  "ANSWER": "정답",
-  "INCORRECT_ANSWER_1": "세복",
-  "INCORRECT_ANSWER_2": "설복",
-  "INCORRECT_ANSWER_3": "설돈"
+  "QUESTION": "진달래화채는 음력 3월 3일인 삼짇날 무렵에 OOO꽃을 따서 만드는 음식이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "진달래",
+  "INCORRECT_ANSWER_1": "봉선화",
+  "INCORRECT_ANSWER_2": "무궁화",
+  "INCORRECT_ANSWER_3": "개나리"
  },
  {
-  "QUESTION": "4_설에 먹는 음식은 ○○이라고 부르기도 해요. ○안에 들어갈 말은 무엇일까요?",
-  "ANSWER": "정답",
-  "INCORRECT_ANSWER_1": "설찬",
-  "INCORRECT_ANSWER_2": "새찬",
-  "INCORRECT_ANSWER_3": "배찬"
+  "QUESTION": "화전은 찹쌀가루 반죽에 제철 O을 얹어 기름에 지져 만든 떡이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "꽃",
+  "INCORRECT_ANSWER_1": "잎",
+  "INCORRECT_ANSWER_2": "풀",
+  "INCORRECT_ANSWER_3": "옷"
  },
  {
-  "QUESTION": "5_새해 첫날 아침 일찍 밖으로 나가 처음 듣는 짐승 소리로 한 해의 운세를 알아보는 풍속은 무엇일까요?",
-  "ANSWER": "정답",
-  "INCORRECT_ANSWER_1": "새참",
-  "INCORRECT_ANSWER_2": "제웅",
-  "INCORRECT_ANSWER_3": "직성"
+  "QUESTION": "봄에는 OOO꽃과 배꽃, 여름에는 장미, 가을에는 국화처럼 그 계절에 피는 꽃이 화전의 주재료에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "진달래",
+  "INCORRECT_ANSWER_1": "무궁화",
+  "INCORRECT_ANSWER_2": "봉선화",
+  "INCORRECT_ANSWER_3": "개나리"
  },
  {
-  "QUESTION": "6_추석에 조상께 차례를 지내며 감사의 마음을 전하는 풍속을 무엇이라고 할까요?",
-  "ANSWER": "정답",
-  "INCORRECT_ANSWER_1": "성묘",
-  "INCORRECT_ANSWER_2": "세배",
-  "INCORRECT_ANSWER_3": "제사"
+  "QUESTION": "OO은 음력 3월 3일인 삼짇날이나 청명에 사람들이 산과 들, 계곡에 나가 봄의 경치를 즐기며 먹고 마시는 풍속이에요. O에 들어갈 말은 무엇일까요?",
+  "ANSWER": "답청",
+  "INCORRECT_ANSWER_1": "소풍",
+  "INCORRECT_ANSWER_2": "답교",
+  "INCORRECT_ANSWER_3": "휴가"
  },
  {
-  "QUESTION": "7_추석에 보름달을 보며 소원을 빌거나 가족과 함께하는 풍속을 무엇이라고 할까요?",
-  "ANSWER": "정답",
-  "INCORRECT_ANSWER_1": "줄다리기",
-  "INCORRECT_ANSWER_2": "그네뛰기",
-  "INCORRECT_ANSWER_3": "연날리기"
+  "QUESTION": "화전놀이는 음력 3월 3일인 삼짇날에 산이나 들처럼 경치가 좋은 곳에 가서 음식을 먹고 O놀이를 즐기는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "꽃",
+  "INCORRECT_ANSWER_1": "물",
+  "INCORRECT_ANSWER_2": "불",
+  "INCORRECT_ANSWER_3": "뱃"
  },
  {
-  "QUESTION": "8_한복에서 저고리와 치마를 이어 붙인 옷을 무엇이라고 할까요?",
-  "ANSWER": "정답",
-  "INCORRECT_ANSWER_1": "마고자",
-  "INCORRECT_ANSWER_2": "바지",
-  "INCORRECT_ANSWER_3": "조끼"
+  "QUESTION": "쑥버무리는 이른 봄에 뜯은 어린 O을 쌀가루와 버무려 시루에 찐 떡으로, 쑥범벅이나 쑥설기라고도 불러요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "쑥",
+  "INCORRECT_ANSWER_1": "꽃",
+  "INCORRECT_ANSWER_2": "콩",
+  "INCORRECT_ANSWER_3": "밀"
  },
  {
-  "QUESTION": "9_명절에 조상께 올리는 음식을 한꺼번에 무엇이라고 부를까요?",
-  "ANSWER": "정답",
-  "INCORRECT_ANSWER_1": "상차림",
-  "INCORRECT_ANSWER_2": "밥상",
-  "INCORRECT_ANSWER_3": "제상"
+  "QUESTION": "기지시줄다리기는 충남 당진 송악면 기지시리에서 하는 민속놀이로, 우리나라의 국가OO유산이자 유네스코 인류OO문화유산이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "무형",
+  "INCORRECT_ANSWER_1": "유형",
+  "INCORRECT_ANSWER_2": "민속",
+  "INCORRECT_ANSWER_3": "미술"
  },
  {
-  "QUESTION": "10_설날 아침에 먹는 국수 요리는 무엇일까요?",
-  "ANSWER": "정답",
-  "INCORRECT_ANSWER_1": "잔치국수",
-  "INCORRECT_ANSWER_2": "칼국수",
-  "INCORRECT_ANSWER_3": "수제비"
+  "QUESTION": "풀각시놀이는 봄철에 여자아이들이 O로 인형을 만들어 노는 놀이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "풀",
+  "INCORRECT_ANSWER_1": "밀",
+  "INCORRECT_ANSWER_2": "벼",
+  "INCORRECT_ANSWER_3": "꽃"
  },
  {
-  "QUESTION": "11_추석에 송편을 빚을 때 넣기도 하는 재료가 아닌 것은 무엇일까요?",
-  "ANSWER": "정답",
+  "QUESTION": "호드기불기는 남자아이들이 O에 버드나무나 미루나무 가지로 피리를 만들어 부는 놀이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "봄",
+  "INCORRECT_ANSWER_1": "낮",
+  "INCORRECT_ANSWER_2": "밤",
+  "INCORRECT_ANSWER_3": "집"
+ },
+ {
+  "QUESTION": "누에의 OO를 풀면 실이 나오고, 이 실은 옷감을 만드는 데 쓰여요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "고치",
+  "INCORRECT_ANSWER_1": "뭉치",
+  "INCORRECT_ANSWER_2": "둥지",
+  "INCORRECT_ANSWER_3": "구치"
+ },
+ {
+  "QUESTION": "볍씨담그기는 못자리에 뿌릴 OO를 물이나 소금물에 담가서, 볍씨에 섞인 쭉정이나 잡물을 골라내는 일이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "볍씨",
+  "INCORRECT_ANSWER_1": "꽃씨",
+  "INCORRECT_ANSWER_2": "콩씨",
+  "INCORRECT_ANSWER_3": "배씨"
+ },
+ {
+  "QUESTION": "올벼심기는 봄에 일찍 벼를 심는 일을 말해요. OO는 가을 추수보다 먼저 거두는 벼로, 보통 추석 전에 수확해요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "올벼",
+  "INCORRECT_ANSWER_1": "찹쌀",
+  "INCORRECT_ANSWER_2": "좁쌀",
+  "INCORRECT_ANSWER_3": "알벼"
+ },
+ {
+  "QUESTION": "두견주빚기는 OOO로 술을 만드는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "진달래",
+  "INCORRECT_ANSWER_1": "개나리",
+  "INCORRECT_ANSWER_2": "라일락",
+  "INCORRECT_ANSWER_3": "제비꽃"
+ },
+ {
+  "QUESTION": "음력 4월은 OO일이 바빠지고, 벼농사를 제대로 준비하기 시작하는 달이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "농사",
+  "INCORRECT_ANSWER_1": "장사",
+  "INCORRECT_ANSWER_2": "공사",
+  "INCORRECT_ANSWER_3": "공부"
+ },
+ {
+  "QUESTION": "음력 4월 8일은 ‘부처님 오신 날’로, ‘OOO’이라고도 불러요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "초파일",
+  "INCORRECT_ANSWER_1": "초사일",
+  "INCORRECT_ANSWER_2": "초오일",
+  "INCORRECT_ANSWER_3": "초칠일"
+ },
+ {
+  "QUESTION": "초파일이 되면 사람들은 절에 가서 불공을 드리며 OO을 달았고, 탑을 돌면서 기도했어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "연등",
+  "INCORRECT_ANSWER_1": "초등",
+  "INCORRECT_ANSWER_2": "일등",
+  "INCORRECT_ANSWER_3": "평등"
+ },
+ {
+  "QUESTION": "초파일은 음력 4월 8일로, OOO이 태어난 날이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "부처님",
+  "INCORRECT_ANSWER_1": "맹자님",
+  "INCORRECT_ANSWER_2": "공자님",
+  "INCORRECT_ANSWER_3": "예수님"
+ },
+ {
+  "QUESTION": "탑돌이는 절에 있는 O을 돌면서 가족이 평화롭고 무사하기를 바라는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "탑",
+  "INCORRECT_ANSWER_1": "문",
+  "INCORRECT_ANSWER_2": "종",
+  "INCORRECT_ANSWER_3": "방"
+ },
+ {
+  "QUESTION": "봉선화 물들이기는 봉선화 꽃잎을 찧어 OO을 붉게 물들이는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "손톱",
+  "INCORRECT_ANSWER_1": "이빨",
+  "INCORRECT_ANSWER_2": "입술",
+  "INCORRECT_ANSWER_3": "발톱"
+ },
+ {
+  "QUESTION": "음력 5월에는 여름의 시작을 알리는 큰 명절인 OO가 있어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "단오",
+  "INCORRECT_ANSWER_1": "한식",
+  "INCORRECT_ANSWER_2": "추석",
+  "INCORRECT_ANSWER_3": "동지"
+ },
+ {
+  "QUESTION": "옛날 사람들은 단오절사에 올릴 음식을 하루 전날인 OOOO에 만들기 시작했어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "작은단오",
+  "INCORRECT_ANSWER_1": "작은보름",
+  "INCORRECT_ANSWER_2": "작은추석",
+  "INCORRECT_ANSWER_3": "작은동지"
+ },
+ {
+  "QUESTION": "OOO는 가뭄이 심할 때 비가 오기를 바라며 지내는 제사에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "기우제",
+  "INCORRECT_ANSWER_1": "기청제",
+  "INCORRECT_ANSWER_2": "해괴제",
+  "INCORRECT_ANSWER_3": "산신제"
+ },
+ {
+  "QUESTION": "OOO는 ‘모’를 논에 옮겨 심는 일로, ‘모심기’라고도 불러요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "모내기",
+  "INCORRECT_ANSWER_1": "모뺏기",
+  "INCORRECT_ANSWER_2": "모풀기",
+  "INCORRECT_ANSWER_3": "모주기"
+ },
+ {
+  "QUESTION": "OOOO은 다 자란 보리를 거두어 알맹이를 털어내는 일이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "보리타작",
+  "INCORRECT_ANSWER_1": "보리심기",
+  "INCORRECT_ANSWER_2": "보리수확",
+  "INCORRECT_ANSWER_3": "보리뽑기"
+ },
+ {
+  "QUESTION": "옛날에는 음력 6월을 ‘OO 달’이라고도 불렀는데, 장마철에 습기가 많아서 무엇이든 쉽게 썩었기 때문이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "썩은",
+  "INCORRECT_ANSWER_1": "나쁜",
+  "INCORRECT_ANSWER_2": "좋은",
+  "INCORRECT_ANSWER_3": "맛난"
+ },
+ {
+  "QUESTION": "유두는 음력 6월 OO일로, 더위를 이기고 농사가 잘되기를 비는 명절이에요. O안에 들어갈 숫자는 무엇일까요?",
+  "ANSWER": "15",
+  "INCORRECT_ANSWER_1": "13",
+  "INCORRECT_ANSWER_2": "14",
+  "INCORRECT_ANSWER_3": "16"
+ },
+ {
+  "QUESTION": "농신제를 지낼 때 전이나 부침개같은 음식을 논과 밭에 두어 OO 냄새를 퍼뜨렸어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "기름",
+  "INCORRECT_ANSWER_1": "방귀",
+  "INCORRECT_ANSWER_2": "거름",
+  "INCORRECT_ANSWER_3": "향수"
+ },
+ {
+  "QUESTION": "유두천신은 O과일이나 O곡식으로 만든 음식을 조상에게 먼저 바치는 제사에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "햇",
+  "INCORRECT_ANSWER_1": "샛",
+  "INCORRECT_ANSWER_2": "헛",
+  "INCORRECT_ANSWER_3": "핫"
+ },
+ {
+  "QUESTION": "수단은 음력 6월 15일인 OO에 먹는 화채에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "유두",
+  "INCORRECT_ANSWER_1": "한식",
+  "INCORRECT_ANSWER_2": "추석",
+  "INCORRECT_ANSWER_3": "동지"
+ },
+ {
+  "QUESTION": "연병은 OOO 반죽을 얇게 부쳐, 그 안에 여러 가지 재료를 넣어 돌돌 말아 먹는 음식이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "밀가루",
+  "INCORRECT_ANSWER_1": "쌀가루",
+  "INCORRECT_ANSWER_2": "콩가루",
+  "INCORRECT_ANSWER_3": "돌가루"
+ },
+ {
+  "QUESTION": "유두면은 우리가 흔히 아는 국수처럼 길게 뽑은 음식이 아니라, OO처럼 동그랗게 만든 음식이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "경단",
+  "INCORRECT_ANSWER_1": "수단",
+  "INCORRECT_ANSWER_2": "장단",
+  "INCORRECT_ANSWER_3": "지단"
+ },
+ {
+  "QUESTION": "삼복은 일 년 중 가장 OO 때예요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "더운",
+  "INCORRECT_ANSWER_1": "졸린",
+  "INCORRECT_ANSWER_2": "바쁜",
+  "INCORRECT_ANSWER_3": "추운"
+ },
+ {
+  "QUESTION": "초복, 중복, 말복 세 날이 O일 간격으로 이어져 삼복이라고 불러요. O안에 들어갈 숫자는 무엇일까요?",
+  "ANSWER": "10",
+  "INCORRECT_ANSWER_1": "11",
+  "INCORRECT_ANSWER_2": "12",
+  "INCORRECT_ANSWER_3": "13"
+ },
+ {
+  "QUESTION": "모래찜질은 삼복 무렵에 강가나 바닷가의 뜨거운 OO 속에 몸을 묻고 땀을 내는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "모래",
+  "INCORRECT_ANSWER_1": "욕조",
+  "INCORRECT_ANSWER_2": "태양",
+  "INCORRECT_ANSWER_3": "자갈"
+ },
+ {
+  "QUESTION": "옛날 사람들은 모래의 뜨거운 기운으로 O을 내면 신경통이나 허리 통증이 좋아진다고 믿었어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "땀",
+  "INCORRECT_ANSWER_1": "돈",
+  "INCORRECT_ANSWER_2": "짬",
+  "INCORRECT_ANSWER_3": "화"
+ },
+ {
+  "QUESTION": "개장국은 삼계탕과 함께 더위를 이기기 위해 OO에 먹던 대표적인 음식이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "삼복",
+  "INCORRECT_ANSWER_1": "단오",
+  "INCORRECT_ANSWER_2": "추석",
+  "INCORRECT_ANSWER_3": "동지"
+ },
+ {
+  "QUESTION": "삼계탕은 닭에 인삼을 넣어 끓인 국으로, ‘OOO’이라고도 불러요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "계삼탕",
+  "INCORRECT_ANSWER_1": "육개장",
+  "INCORRECT_ANSWER_2": "설렁탕",
+  "INCORRECT_ANSWER_3": "개장국"
+ },
+ {
+  "QUESTION": "복달임은 OO에 몸에 좋은 음식을 먹고, 시원한 곳에서 더위를 이겨내는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "삼복",
+  "INCORRECT_ANSWER_1": "단오",
+  "INCORRECT_ANSWER_2": "유두",
+  "INCORRECT_ANSWER_3": "추석"
+ },
+ {
+  "QUESTION": "탁족은 시원한 계곡물에 O을 담그고 더위를 쫓는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "발",
+  "INCORRECT_ANSWER_1": "손",
+  "INCORRECT_ANSWER_2": "입",
+  "INCORRECT_ANSWER_3": "코"
+ },
+ {
+  "QUESTION": "논둑제는 논O이나 강O이 무너지지 않게 해달라고 지내는 제사예요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "둑",
+  "INCORRECT_ANSWER_1": "밭",
+  "INCORRECT_ANSWER_2": "산",
+  "INCORRECT_ANSWER_3": "변"
+ },
+ {
+  "QUESTION": "개똥장마는 음력 5월에서 O월 사이에 내리는 장마를 말해요. O안에 들어갈 숫자는 무엇일까요?",
+  "ANSWER": "6",
+  "INCORRECT_ANSWER_1": "7",
+  "INCORRECT_ANSWER_2": "8",
+  "INCORRECT_ANSWER_3": "9"
+ },
+ {
+  "QUESTION": "OO은 냇가나 강가에 모여 고기를 잡으며 더위를 피하는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "천렵",
+  "INCORRECT_ANSWER_1": "경작",
+  "INCORRECT_ANSWER_2": "채집",
+  "INCORRECT_ANSWER_3": "수렵"
+ },
+ {
+  "QUESTION": "오뉴월 O팔자는 무더운 여름에 일은 하지 않고 편히 있는 사람을 가리키는 말이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "개",
+  "INCORRECT_ANSWER_1": "소",
+  "INCORRECT_ANSWER_2": "말",
+  "INCORRECT_ANSWER_3": "닭"
+ },
+ {
+  "QUESTION": "김매기는 논밭의 작물이 잘 자라도록 OO를 없애고, 작물 사이의 흙을 부드럽게 해주는 일이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "잡초",
+  "INCORRECT_ANSWER_1": "뿌리",
+  "INCORRECT_ANSWER_2": "열매",
+  "INCORRECT_ANSWER_3": "새싹"
+ },
+ {
+  "QUESTION": "칠석은 음력 7월 7일로, OO와 OO가 만나는 날로 잘 알려져 있어요. O안에 들어갈 말을 차례대로 나열한 것은 무엇일까요?",
+  "ANSWER": "견우, 직녀",
+  "INCORRECT_ANSWER_1": "철수, 영희",
+  "INCORRECT_ANSWER_2": "오빠, 동생",
+  "INCORRECT_ANSWER_3": "아빠, 엄마"
+ },
+ {
+  "QUESTION": "걸교는 음력 7월 7일인 칠석에 별을 보며 OOO을 잘하게 해 달라고 비는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "바느질",
+  "INCORRECT_ANSWER_1": "양치질",
+  "INCORRECT_ANSWER_2": "발길질",
+  "INCORRECT_ANSWER_3": "가위질"
+ },
+ {
+  "QUESTION": "칠석고사는 음력 7월 7일인 OO에 가족의 건강과 행복을 비는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "칠석",
+  "INCORRECT_ANSWER_1": "한식",
+  "INCORRECT_ANSWER_2": "단오",
+  "INCORRECT_ANSWER_3": "추석"
+ },
+ {
+  "QUESTION": "북두칠성에 빌기는 칠석에 OOOO을 바라보며 칠성신에게 오래 살게 해 달라고 하거나 복을 비는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "북두칠성",
+  "INCORRECT_ANSWER_1": "시리우스",
+  "INCORRECT_ANSWER_2": "인공위성",
+  "INCORRECT_ANSWER_3": "히아데스"
+ },
+ {
+  "QUESTION": "약물맞이는 음력 7월 7일인 OO에 물에 들어가 목욕하거나 약수를 마시는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "칠석",
+  "INCORRECT_ANSWER_1": "한식",
+  "INCORRECT_ANSWER_2": "단오",
+  "INCORRECT_ANSWER_3": "유두"
+ },
+ {
+  "QUESTION": "옛날 사람들은 칠석비를 견우와 직녀가 만나고 헤어질 때 흘리는 OO이라고 생각해 특별한 비라고 여겼어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "눈물",
+  "INCORRECT_ANSWER_1": "우물",
+  "INCORRECT_ANSWER_2": "콧물",
+  "INCORRECT_ANSWER_3": "국물"
+ },
+ {
+  "QUESTION": "칠성점은 음력 7월 7일인 칠석날 밤에 북두칠성, 직녀별, 견우별을 보며 OO의 앞날을 알아보는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "농사",
+  "INCORRECT_ANSWER_1": "장사",
+  "INCORRECT_ANSWER_2": "공사",
+  "INCORRECT_ANSWER_3": "군사"
+ },
+ {
+  "QUESTION": "칠석놀이는 음력 7월 7일인 OO에 작물이 잘 자라기를 바라며 마을 사람들이 함께 즐기는 놀이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "칠석",
+  "INCORRECT_ANSWER_1": "유두",
+  "INCORRECT_ANSWER_2": "추석",
+  "INCORRECT_ANSWER_3": "동지"
+ },
+ {
+  "QUESTION": "백중은 음력 7월 15일에 열리는 OO들의 여름 축제 날이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "농부",
+  "INCORRECT_ANSWER_1": "어부",
+  "INCORRECT_ANSWER_2": "광부",
+  "INCORRECT_ANSWER_3": "임부"
+ },
+ {
+  "QUESTION": "우란분재는 음력 7월 15일인 OO에 절에서 지내는 불교 행사에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "백중",
+  "INCORRECT_ANSWER_1": "단오",
+  "INCORRECT_ANSWER_2": "유두",
+  "INCORRECT_ANSWER_3": "추석"
+ },
+ {
+  "QUESTION": "호미씻이라는 이름은 김매기에 사용한 농기구인 OO를 씻어 걸어둔 데서 생겼어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "호미",
+  "INCORRECT_ANSWER_1": "따비",
+  "INCORRECT_ANSWER_2": "쟁기",
+  "INCORRECT_ANSWER_3": "써레"
+ },
+ {
+  "QUESTION": "백가지나물먹기는 음력 7월 15일인 백중에 OOO가지 나물을 먹는 풍속이에요. O안에 들어갈 숫자는 무엇일까요?",
+  "ANSWER": "100",
+  "INCORRECT_ANSWER_1": "200",
+  "INCORRECT_ANSWER_2": "300",
+  "INCORRECT_ANSWER_3": "400"
+ },
+ {
+  "QUESTION": "옛날 사람들은 들돌을 들어야 진정한 OO이 될 수 있고, 농사일을 제대로 할 수 있다고 생각했어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "어른",
+  "INCORRECT_ANSWER_1": "머슴",
+  "INCORRECT_ANSWER_2": "아이",
+  "INCORRECT_ANSWER_3": "주인"
+ },
+ {
+  "QUESTION": "‘칠월 OO사리에 오리 다리 부러진다’라는 속담은 음력 7월 15일 무렵에 바닷물이 아주 빠르고 세게 흐른다는 뜻이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "백중",
+  "INCORRECT_ANSWER_1": "단오",
+  "INCORRECT_ANSWER_2": "유두",
+  "INCORRECT_ANSWER_3": "추석"
+ },
+ {
+  "QUESTION": "음력 8월에는 우리나라의 큰 명절인 OO이 있어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "추석",
+  "INCORRECT_ANSWER_1": "단오",
+  "INCORRECT_ANSWER_2": "유두",
+  "INCORRECT_ANSWER_3": "백중"
+ },
+ {
+  "QUESTION": "반보기는 추석이 지난 뒤, OO간 딸이 친정 식구를 만나던 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "시집",
+  "INCORRECT_ANSWER_1": "장가",
+  "INCORRECT_ANSWER_2": "이사",
+  "INCORRECT_ANSWER_3": "출장"
+ },
+ {
+  "QUESTION": "성주단지갈기는 가을에 가장 먼저 거둔 쌀을 OO단지에 바꿔 넣는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "성주",
+  "INCORRECT_ANSWER_1": "가신",
+  "INCORRECT_ANSWER_2": "조왕",
+  "INCORRECT_ANSWER_3": "터주"
+ },
+ {
+  "QUESTION": "성주는 O을 지켜주는 신으로, 옛날 사람들은 성주가 성주단지에 머문다고 생각했어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "집",
+  "INCORRECT_ANSWER_1": "방",
+  "INCORRECT_ANSWER_2": "안",
+  "INCORRECT_ANSWER_3": "밖"
+ },
+ {
+  "QUESTION": "벼베는소리는 가을에 O를 낫으로 베어 볏단을 만들며 부르는 노래에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "벼",
+  "INCORRECT_ANSWER_1": "조",
+  "INCORRECT_ANSWER_2": "콩",
+  "INCORRECT_ANSWER_3": "팥"
+ },
+ {
+  "QUESTION": "벼타작소리는 가을에 O 이삭을 털어내며 부르는 노래에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "벼",
   "INCORRECT_ANSWER_1": "콩",
-  "INCORRECT_ANSWER_2": "깨",
-  "INCORRECT_ANSWER_3": "밤"
+  "INCORRECT_ANSWER_2": "팥",
+  "INCORRECT_ANSWER_3": "조"
  },
  {
-  "QUESTION": "12_윷놀이에서 '윷'이 네 개 모두 앞면이 나왔을 때 부르는 이름은?",
-  "ANSWER": "정답",
-  "INCORRECT_ANSWER_1": "도",
-  "INCORRECT_ANSWER_2": "개",
-  "INCORRECT_ANSWER_3": "걸"
+  "QUESTION": "가을걷이는 가을에 다 자란 곡식을 거두는 일로, OO라고도 불러요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "추수",
+  "INCORRECT_ANSWER_1": "파종",
+  "INCORRECT_ANSWER_2": "제초",
+  "INCORRECT_ANSWER_3": "저장"
+ },
+ {
+  "QUESTION": "땔감장만은 겨울에 불을 피울 때 쓸 OO를 모으는 일이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "나무",
+  "INCORRECT_ANSWER_1": "가스",
+  "INCORRECT_ANSWER_2": "석유",
+  "INCORRECT_ANSWER_3": "전기"
+ },
+ {
+  "QUESTION": "음력 O월에는 중양절이 있어요. 중양절은 음력 O월 O일로, 숫자 O가 두 번 겹치는 날이에요. O안에 들어갈 숫자는 무엇일까요?",
+  "ANSWER": "9",
+  "INCORRECT_ANSWER_1": "6",
+  "INCORRECT_ANSWER_2": "7",
+  "INCORRECT_ANSWER_3": "8"
+ },
+ {
+  "QUESTION": "중양절은 음력 9월 9일로, 숫자 9가 두 번 겹치는 날이라서 ‘OO’라고 부르기도 해요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "중구",
+  "INCORRECT_ANSWER_1": "농구",
+  "INCORRECT_ANSWER_2": "배구",
+  "INCORRECT_ANSWER_3": "축구"
+ },
+ {
+  "QUESTION": "중양절사는 음력 9월 9일인 OOO에 조상들의 산소에 가서 지내는 제사에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "중양절",
+  "INCORRECT_ANSWER_1": "제헌절",
+  "INCORRECT_ANSWER_2": "개천절",
+  "INCORRECT_ANSWER_3": "삼일절"
+ },
+ {
+  "QUESTION": "음력 9월 9일인 OOO에 뜯은 구절초가 건강에 가장 좋다고 여겨져요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "중양절",
+  "INCORRECT_ANSWER_1": "개천절",
+  "INCORRECT_ANSWER_2": "삼일절",
+  "INCORRECT_ANSWER_3": "제헌절"
+ },
+ {
+  "QUESTION": "국화전은 얇게 편 찹쌀가루 반죽 위에 OO 꽃잎을 올려 전으로 부쳐 만든 음식이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "국화",
+  "INCORRECT_ANSWER_1": "장미",
+  "INCORRECT_ANSWER_2": "백합",
+  "INCORRECT_ANSWER_3": "매화"
+ },
+ {
+  "QUESTION": "옛날 사람들은 중양절이 되면 산에 올라 OOO를 마시며 가을을 느꼈어요.  O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "국화주",
+  "INCORRECT_ANSWER_1": "장미주",
+  "INCORRECT_ANSWER_2": "창포주",
+  "INCORRECT_ANSWER_3": "두견주"
+ },
+ {
+  "QUESTION": "갈무리는 가을에 거둔 OOO을 겨울에 먹을 음식이나 다음 해에 쓸 씨앗으로 잘 챙겨 두는 일이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "농작물",
+  "INCORRECT_ANSWER_1": "단풍잎",
+  "INCORRECT_ANSWER_2": "은행잎",
+  "INCORRECT_ANSWER_3": "애벌레"
+ },
+ {
+  "QUESTION": "전어는 ‘O물고기’라는 뜻으로, 맛이 너무 좋아 사람들이 돈을 아끼지 않고 사 먹었다고 해서 붙은 이름이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "돈",
+  "INCORRECT_ANSWER_1": "밥",
+  "INCORRECT_ANSWER_2": "산",
+  "INCORRECT_ANSWER_3": "강"
+ },
+ {
+  "QUESTION": "음력 10월이 되면 OO을 하고 장을 담가요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "김장",
+  "INCORRECT_ANSWER_1": "수확",
+  "INCORRECT_ANSWER_2": "음식",
+  "INCORRECT_ANSWER_3": "파종"
+ },
+ {
+  "QUESTION": "옛날 사람들은 손돌날 부는 바람과 쌀쌀한 추위를 ‘OO바람’과 ‘OO추위’라고 불렀어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "손돌",
+  "INCORRECT_ANSWER_1": "발돌",
+  "INCORRECT_ANSWER_2": "약돌",
+  "INCORRECT_ANSWER_3": "강돌"
+ },
+ {
+  "QUESTION": "성주신이 머무는 ‘신체’는 보통 집의 OOO나 마루에 놓아요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "대들보",
+  "INCORRECT_ANSWER_1": "안마당",
+  "INCORRECT_ANSWER_2": "뒷마당",
+  "INCORRECT_ANSWER_3": "사랑방"
+ },
+ {
+  "QUESTION": "시루떡은 OO라는 그릇에 쌀가루를 여러 겹으로 쌓아 쪄 만든 떡이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "시루",
+  "INCORRECT_ANSWER_1": "하루",
+  "INCORRECT_ANSWER_2": "벼루",
+  "INCORRECT_ANSWER_3": "자루"
+ },
+ {
+  "QUESTION": "난로회는 날씨가 추워지는 음력 10월에 사람들이 숯불을 담은 화로 앞에 모여 고기를 구워 먹거나 OO을 끓여 먹던 풍속을 말해요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "전골",
+  "INCORRECT_ANSWER_1": "국수",
+  "INCORRECT_ANSWER_2": "라면",
+  "INCORRECT_ANSWER_3": "곰탕"
+ },
+ {
+  "QUESTION": "김장은 초겨울이 되면 그해 겨울부터 다음 해 봄까지 먹을 OO를 한꺼번에 많이 만드는 일이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "김치",
+  "INCORRECT_ANSWER_1": "된장",
+  "INCORRECT_ANSWER_2": "젓갈",
+  "INCORRECT_ANSWER_3": "쌈장"
+ },
+ {
+  "QUESTION": "메주쑤기는 우리가 즐겨 먹는 된장, 간장, 고추장을 만들 때 꼭 필요한 OO를 만드는 일이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "메주",
+  "INCORRECT_ANSWER_1": "두부",
+  "INCORRECT_ANSWER_2": "김치",
+  "INCORRECT_ANSWER_3": "양념"
+ },
+ {
+  "QUESTION": "음력 11월에는 24절기 중 하나인 ‘OO’라는 명절이 있어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "동지",
+  "INCORRECT_ANSWER_1": "한식",
+  "INCORRECT_ANSWER_2": "단오",
+  "INCORRECT_ANSWER_3": "추석"
+ },
+ {
+  "QUESTION": "‘동짓달’이라는 말은 일 년 중 밤이 가장 길고 낮이 가장 짧은 날인 OO로부터 왔어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "동지",
+  "INCORRECT_ANSWER_1": "한식",
+  "INCORRECT_ANSWER_2": "단오",
+  "INCORRECT_ANSWER_3": "추석"
+ },
+ {
+  "QUESTION": "중동팔관회는 고려의 수도였던 개경에서 음력 11월 15일에 열리던 OO 행사에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "불교",
+  "INCORRECT_ANSWER_1": "유교",
+  "INCORRECT_ANSWER_2": "도교",
+  "INCORRECT_ANSWER_3": "무교"
+ },
+ {
+  "QUESTION": "냉면은 차갑게 식힌 국물에 OO를 말아 먹는 음식이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "국수",
+  "INCORRECT_ANSWER_1": "고기",
+  "INCORRECT_ANSWER_2": "야채",
+  "INCORRECT_ANSWER_3": "찬밥"
+ },
+ {
+  "QUESTION": "동치미는 겨울에 담가 먹는 O김치로, 무를 통째로 넣거나 크게 썰어 소금에 절인 뒤 소금물을 부어 만든 음식이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "물",
+  "INCORRECT_ANSWER_1": "술",
+  "INCORRECT_ANSWER_2": "쉰",
+  "INCORRECT_ANSWER_3": "백"
+ },
+ {
+  "QUESTION": "음력 12월은 한 해를 마무리하고 OO를 준비하는 달이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "새해",
+  "INCORRECT_ANSWER_1": "과거",
+  "INCORRECT_ANSWER_2": "현재",
+  "INCORRECT_ANSWER_3": "헌해"
+ },
+ {
+  "QUESTION": "옛날 사람들은 납월에 산짐승이나 들짐승, 날짐승을 OO해서 제사를 지냈어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "사냥",
+  "INCORRECT_ANSWER_1": "사육",
+  "INCORRECT_ANSWER_2": "구입",
+  "INCORRECT_ANSWER_3": "대여"
+ },
+ {
+  "QUESTION": "섣달은 음력으로 한 해의 마지막 달인 OO월을 말해요. O안에 들어갈 숫자는 무엇일까요?",
+  "ANSWER": "12",
+  "INCORRECT_ANSWER_1": "11",
+  "INCORRECT_ANSWER_2": "13",
+  "INCORRECT_ANSWER_3": "14"
+ },
+ {
+  "QUESTION": "조선의 왕은 납일에 종묘와 OO에 직접 가서 제사를 지냈어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "사직",
+  "INCORRECT_ANSWER_1": "무덤",
+  "INCORRECT_ANSWER_2": "바다",
+  "INCORRECT_ANSWER_3": "궁궐"
+ },
+ {
+  "QUESTION": "제주도 사람들은 신구간에 한 해 동안 있던 O이 하늘로 올라가고 새해의 O은 아직 내려오지 않는다고 믿었어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "신",
+  "INCORRECT_ANSWER_1": "운",
+  "INCORRECT_ANSWER_2": "달",
+  "INCORRECT_ANSWER_3": "별"
+ },
+ {
+  "QUESTION": "묵은세배는 먼저 조상들에게 OO를 지내고, 그다음에 할머니와 할아버지, 부모님에게 세배를 해요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "제사",
+  "INCORRECT_ANSWER_1": "세배",
+  "INCORRECT_ANSWER_2": "인사",
+  "INCORRECT_ANSWER_3": "고사"
+ },
+ {
+  "QUESTION": "옛날 사람들은 수세를 하면 나쁜 OO이 찾아오는 것을 막고 새해에 좋은 일이 생긴다고 여겼어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "귀신",
+  "INCORRECT_ANSWER_1": "도둑",
+  "INCORRECT_ANSWER_2": "산신",
+  "INCORRECT_ANSWER_3": "손님"
+ },
+ {
+  "QUESTION": "고드름점은 겨울에 지붕 끝에 달린 OOO을 보고 다음 해 농사가 잘될지 안될지를 알아보는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "고드름",
+  "INCORRECT_ANSWER_1": "눈덩이",
+  "INCORRECT_ANSWER_2": "잎사귀",
+  "INCORRECT_ANSWER_3": "물방울"
+ },
+ {
+  "QUESTION": "옛날 사람들은 겨울에 눈이 많이 오면 다음 해 OO가 잘된다고 믿었어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "농사",
+  "INCORRECT_ANSWER_1": "이사",
+  "INCORRECT_ANSWER_2": "낚시",
+  "INCORRECT_ANSWER_3": "장사"
+ },
+ {
+  "QUESTION": "매사냥은 길들인 O로 꿩을 사냥하는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "꿩",
+  "INCORRECT_ANSWER_1": "쥐",
+  "INCORRECT_ANSWER_2": "닭",
+  "INCORRECT_ANSWER_3": "개"
+ },
+ {
+  "QUESTION": "썰매타기는 겨울에 눈이나 OOO 위에서 썰매를 타는 것을 말해요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "얼음판",
+  "INCORRECT_ANSWER_1": "운동장",
+  "INCORRECT_ANSWER_2": "자갈밭",
+  "INCORRECT_ANSWER_3": "바닷물"
+ },
+ {
+  "QUESTION": "사냥놀이는 농사를 짓지 않는 겨울철에 O나 사냥개를 데리고 산에 가서 동물을 사냥하는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "매",
+  "INCORRECT_ANSWER_1": "곰",
+  "INCORRECT_ANSWER_2": "소",
+  "INCORRECT_ANSWER_3": "꿩"
+ },
+ {
+  "QUESTION": "윤달은 음력 날짜와 실제 OO의 차이를 줄이기 위해 두는 달이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "계절",
+  "INCORRECT_ANSWER_1": "환경",
+  "INCORRECT_ANSWER_2": "지역",
+  "INCORRECT_ANSWER_3": "거리"
+ },
+ {
+  "QUESTION": "윤사월은 음력 O월에 윤달이 있는 달을 말해요. O안에 들어갈 숫자는 무엇일까요?",
+  "ANSWER": "4",
+  "INCORRECT_ANSWER_1": "1",
+  "INCORRECT_ANSWER_2": "2",
+  "INCORRECT_ANSWER_3": "3"
+ },
+ {
+  "QUESTION": "수의만들기는 죽은 사람이 입는 옷인 ‘OO’를 만드는 일이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "수의",
+  "INCORRECT_ANSWER_1": "한복",
+  "INCORRECT_ANSWER_2": "치마",
+  "INCORRECT_ANSWER_3": "바지"
+ },
+ {
+  "QUESTION": "옛날 사람들은 ○○에 봄이 온 것을 축하하거나 바라는 내용을 한지에 글로 적어, 대문이나 기둥에 붙였어요. ○안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "입춘",
+  "INCORRECT_ANSWER_1": "경칩",
+  "INCORRECT_ANSWER_2": "청명",
+  "INCORRECT_ANSWER_3": "망종"
+ },
+ {
+  "QUESTION": "목우희는 입춘에 나무로 ○를 만들어 굿을 하거나 민속놀이를 즐기는 풍속이에요. ○안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "소",
+  "INCORRECT_ANSWER_1": "개",
+  "INCORRECT_ANSWER_2": "닭",
+  "INCORRECT_ANSWER_3": "양"
+ },
+ {
+  "QUESTION": "옛날에는 입춘굿을 할 때 마을을 다스리던 관리가 나무로 만든 ○를 끌며 밭을 가는 시늉을 했어요. ○안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "소",
+  "INCORRECT_ANSWER_1": "개",
+  "INCORRECT_ANSWER_2": "닭",
+  "INCORRECT_ANSWER_3": "양"
+ },
+ {
+  "QUESTION": "조선시대에 ‘봄이 온 것을 축하하는 행사’를 ○○하례라고 불렀어요. ○안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "입춘",
+  "INCORRECT_ANSWER_1": "망종",
+  "INCORRECT_ANSWER_2": "청명",
+  "INCORRECT_ANSWER_3": "경칩"
+ },
+ {
+  "QUESTION": "보리뿌리점은 입춘에 보리 OO를 캐서 그해 보리농사가 잘될지를 알아보는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "뿌리",
+  "INCORRECT_ANSWER_1": "씨앗",
+  "INCORRECT_ANSWER_2": "줄기",
+  "INCORRECT_ANSWER_3": "열매"
+ },
+ {
+  "QUESTION": "‘입춘 거꾸로 붙였나’라는 말은 OO이 지났는데도 날씨가 몹시 추울 때 쓰는 속담이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "입춘",
+  "INCORRECT_ANSWER_1": "망종",
+  "INCORRECT_ANSWER_2": "청명",
+  "INCORRECT_ANSWER_3": "경칩"
+ },
+ {
+  "QUESTION": "우수는 ‘눈이 녹아 O가 된다.’라는 뜻으로, 추운 날씨가 점점 풀려 봄기운이 돌기 시작하는 시기에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "비",
+  "INCORRECT_ANSWER_1": "풀",
+  "INCORRECT_ANSWER_2": "꽃",
+  "INCORRECT_ANSWER_3": "강"
+ },
+ {
+  "QUESTION": "우수는 눈이 녹아 비가 되는 때이고, 경칩은 겨울잠을 자던 곤충이나 OOO가 깨어나는 때예요. O에 들어갈 말은 무엇일까요?",
+  "ANSWER": "개구리",
+  "INCORRECT_ANSWER_1": "멧돼지",
+  "INCORRECT_ANSWER_2": "호랑이",
+  "INCORRECT_ANSWER_3": "너구리"
+ },
+ {
+  "QUESTION": "옛날 사람들은 OOO알먹기를 하면 기운을 받아 몸이 건강해진다고 믿었어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "개구리",
+  "INCORRECT_ANSWER_1": "멧돼지",
+  "INCORRECT_ANSWER_2": "두루미",
+  "INCORRECT_ANSWER_3": "너구리"
+ },
+ {
+  "QUESTION": "옛날 사람들은 고로쇠물을 마시면 병이 생기지 않고, 여름에도 OO를 타지 않는다고 믿었어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "더위",
+  "INCORRECT_ANSWER_1": "추위",
+  "INCORRECT_ANSWER_2": "바람",
+  "INCORRECT_ANSWER_3": "피로"
+ },
+ {
+  "QUESTION": "춘분에는 O과 O의 길이가 거의 같아져요. O안에 들어갈 말을 차례대로 나열한 것은 무엇일까요?",
+  "ANSWER": "낮, 밤",
+  "INCORRECT_ANSWER_1": "손, 발",
+  "INCORRECT_ANSWER_2": "눈, 코",
+  "INCORRECT_ANSWER_3": "해, 달"
+ },
+ {
+  "QUESTION": "옛날 농부들은 곡우에 O를 기다리며 볍씨를 물에 담가 모내기를 준비했어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "비",
+  "INCORRECT_ANSWER_1": "눈",
+  "INCORRECT_ANSWER_2": "번개",
+  "INCORRECT_ANSWER_3": "안개"
+ },
+ {
+  "QUESTION": "곡우물마시기는 곡우에 나무에서 나오는 O을 마시는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "물",
+  "INCORRECT_ANSWER_1": "불",
+  "INCORRECT_ANSWER_2": "진",
+  "INCORRECT_ANSWER_3": "잎"
+ },
+ {
+  "QUESTION": "입하는 여름의 시작을 알리는 때라 초여름이라는 뜻에서 ‘OO’나 ‘초하’라고도 불러요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "맹하",
+  "INCORRECT_ANSWER_1": "펭하",
+  "INCORRECT_ANSWER_2": "하하",
+  "INCORRECT_ANSWER_3": "축하"
+ },
+ {
+  "QUESTION": "옛날에는 소만 무렵 식량이 부족한 경우가 많았어요. 이런 어려운 시기를 사람들은 ‘OOOO’라고 불렀어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "보릿고개",
+  "INCORRECT_ANSWER_1": "깔딱고개",
+  "INCORRECT_ANSWER_2": "고개고개",
+  "INCORRECT_ANSWER_3": "버티고개"
+ },
+ {
+  "QUESTION": "망종 무렵은 OO 수확과 모내기가 겹쳐 농촌에서 일 년 중 가장 바쁜 시기에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "보리",
+  "INCORRECT_ANSWER_1": "배추",
+  "INCORRECT_ANSWER_2": "대추",
+  "INCORRECT_ANSWER_3": "사과"
+ },
+ {
+  "QUESTION": "하지는 일 년 중 O이 가장 길며, 이때부터 날씨가 더워져요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "낮",
+  "INCORRECT_ANSWER_1": "밤",
+  "INCORRECT_ANSWER_2": "달",
+  "INCORRECT_ANSWER_3": "날"
+ },
+ {
+  "QUESTION": "소서 무렵은 여름 OO철이어서 비가 자주 내려요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "장마",
+  "INCORRECT_ANSWER_1": "휴가",
+  "INCORRECT_ANSWER_2": "김장",
+  "INCORRECT_ANSWER_3": "피서"
+ },
+ {
+  "QUESTION": "대서는 ‘큰 OO’라는 뜻이며, 일 년 중 더위가 가장 심해요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "더위",
+  "INCORRECT_ANSWER_1": "추위",
+  "INCORRECT_ANSWER_2": "남자",
+  "INCORRECT_ANSWER_3": "여자"
+ },
+ {
+  "QUESTION": "입추는 OO이 끝나고 OO의 시작을 알리는 날이에요. O안에 들어갈 말을 차례대로 나열한 것은 무엇일까요?",
+  "ANSWER": "여름, 가을",
+  "INCORRECT_ANSWER_1": "가을, 겨울",
+  "INCORRECT_ANSWER_2": "겨울, 여름",
+  "INCORRECT_ANSWER_3": "가을, 여름"
+ },
+ {
+  "QUESTION": "처서는 ‘OO가 그친다.’라는 뜻이며, 여름 더위가 물러가고 신선한 가을이 본격적으로 찾아오는 때예요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "더위",
+  "INCORRECT_ANSWER_1": "추위",
+  "INCORRECT_ANSWER_2": "장마",
+  "INCORRECT_ANSWER_3": "폭우"
+ },
+ {
+  "QUESTION": "‘모기도 처서가 지나면 입이 삐뚤어진다’는 속담은 여름 동안 사람들을 괴롭히던 모기가 OO를 지나며 힘을 쓰지 못하는 모습을 재미있게 표현한 말이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "처서",
+  "INCORRECT_ANSWER_1": "입춘",
+  "INCORRECT_ANSWER_2": "입하",
+  "INCORRECT_ANSWER_3": "입동"
+ },
+ {
+  "QUESTION": "백로 무렵에는 북쪽에서 기러기가 날아오고, OO는 따뜻한 강남으로 떠나요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "제비",
+  "INCORRECT_ANSWER_1": "참새",
+  "INCORRECT_ANSWER_2": "까치",
+  "INCORRECT_ANSWER_3": "오리"
+ },
+ {
+  "QUESTION": "OO에는 낮과 밤의 길이가 거의 같아지고, OO이 지나면 밤이 점점 길어져요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "추분",
+  "INCORRECT_ANSWER_1": "춘분",
+  "INCORRECT_ANSWER_2": "하지",
+  "INCORRECT_ANSWER_3": "동지"
+ },
+ {
+  "QUESTION": "한로는 ‘찬 OO’이라는 뜻이며, OO이 찬 공기를 만나 서리가 생기기 시작하는 시기에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "이슬",
+  "INCORRECT_ANSWER_1": "빗물",
+  "INCORRECT_ANSWER_2": "강물",
+  "INCORRECT_ANSWER_3": "얼음"
+ },
+ {
+  "QUESTION": "옛날 사람들은 한로에 OOOO로 만든 추어탕을 절기 음식으로 먹기도 했어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "미꾸라지",
+  "INCORRECT_ANSWER_1": "바닷가재",
+  "INCORRECT_ANSWER_2": "갑오징어",
+  "INCORRECT_ANSWER_3": "대왕고래"
+ },
+ {
+  "QUESTION": "OO이 지나면 날씨가 추워져 물이 얼기 시작하고 동물들은 겨울잠을 준비해요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "입동",
+  "INCORRECT_ANSWER_1": "입춘",
+  "INCORRECT_ANSWER_2": "입하",
+  "INCORRECT_ANSWER_3": "입추"
+ },
+ {
+  "QUESTION": "입동이 많이 지난 뒤에는 OO가 얼고 신선한 재료를 구하기 어려워 김장을 하기가 힘들었어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "배추",
+  "INCORRECT_ANSWER_1": "고추",
+  "INCORRECT_ANSWER_2": "상추",
+  "INCORRECT_ANSWER_3": "가지"
+ },
+ {
+  "QUESTION": "소설에 부는 차가운 바람과 추위를 ‘OO바람’, ‘OO추위’라고 불러요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "손돌",
+  "INCORRECT_ANSWER_1": "벽돌",
+  "INCORRECT_ANSWER_2": "짱돌",
+  "INCORRECT_ANSWER_3": "옥돌"
+ },
+ {
+  "QUESTION": "OO은 ‘큰 눈’이라는 뜻이며, 동지와 함께 한겨울로 들어가는 시기에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "대설",
+  "INCORRECT_ANSWER_1": "소설",
+  "INCORRECT_ANSWER_2": "소한",
+  "INCORRECT_ANSWER_3": "대한"
+ },
+ {
+  "QUESTION": "동지에는 ‘팥죽’을 만들어 먹고, ‘새해 OO’을 선물해요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "달력",
+  "INCORRECT_ANSWER_1": "계획",
+  "INCORRECT_ANSWER_2": "신문",
+  "INCORRECT_ANSWER_3": "시간"
+ },
+ {
+  "QUESTION": "양력설은 양력으로 새해 첫날인 O월 O일을 말해요. O안에 들어갈 숫자는 무엇일까요?",
+  "ANSWER": "1",
+  "INCORRECT_ANSWER_1": "3",
+  "INCORRECT_ANSWER_2": "5",
+  "INCORRECT_ANSWER_3": "7"
+ },
+ {
+  "QUESTION": "시무식은 회사나 관공서에서 OO에 처음 일을 시작하며 여는 행사에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "새해",
+  "INCORRECT_ANSWER_1": "작년",
+  "INCORRECT_ANSWER_2": "내년",
+  "INCORRECT_ANSWER_3": "내일"
+ },
+ {
+  "QUESTION": "연하장은 OO를 축하하는 엽서나 카드에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "새해",
+  "INCORRECT_ANSWER_1": "그제",
+  "INCORRECT_ANSWER_2": "어제",
+  "INCORRECT_ANSWER_3": "모레"
+ },
+ {
+  "QUESTION": "입학식은 학교에 새로 들어온 학생인 OOO을 환영하는 행사에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "신입생",
+  "INCORRECT_ANSWER_1": "졸업생",
+  "INCORRECT_ANSWER_2": "우등생",
+  "INCORRECT_ANSWER_3": "장학생"
+ },
+ {
+  "QUESTION": "화이트데이는 영어로 OOO을 뜻하는 ‘화이트’와 날을 뜻하는 ‘데이’가 합쳐진 말이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "하얀색",
+  "INCORRECT_ANSWER_1": "검은색",
+  "INCORRECT_ANSWER_2": "빨간색",
+  "INCORRECT_ANSWER_3": "파란색"
+ },
+ {
+  "QUESTION": "식목일은 양력 4월 5일로, OO를 많이 심고 소중히 가꾸기 위해 나라에서 정한 기념일이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "나무",
+  "INCORRECT_ANSWER_1": "장미",
+  "INCORRECT_ANSWER_2": "국화",
+  "INCORRECT_ANSWER_3": "보리"
+ },
+ {
+  "QUESTION": "블랙데이에는 보통 OOO 옷을 입고 OOO 음식인 자장면을 먹어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "검은색",
+  "INCORRECT_ANSWER_1": "파란색",
+  "INCORRECT_ANSWER_2": "빨간색",
+  "INCORRECT_ANSWER_3": "하얀색"
+ },
+ {
+  "QUESTION": "성년의 날은 매년 양력 5월 셋째 주 월요일로, 만 19세를 맞은 청년이 OO이 되었음을 알리고 축하를 받으며 성인식을 치르는 날이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "성인",
+  "INCORRECT_ANSWER_1": "학생",
+  "INCORRECT_ANSWER_2": "아빠",
+  "INCORRECT_ANSWER_3": "엄마"
+ },
+ {
+  "QUESTION": "어린이날은 양력 5월 5일로, 모든 OOO가 밝고 건강하게 자라기를 바라는 마음에서 정한 기념일이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "어린이",
+  "INCORRECT_ANSWER_1": "아버지",
+  "INCORRECT_ANSWER_2": "어머니",
+  "INCORRECT_ANSWER_3": "할머니"
+ },
+ {
+  "QUESTION": "일제강점기에 OOO 선생님은 어린이의 인격을 존중하고 권리를 지키기 위해 어린이날을 만들었어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "방정환",
+  "INCORRECT_ANSWER_1": "안중근",
+  "INCORRECT_ANSWER_2": "이순신",
+  "INCORRECT_ANSWER_3": "유관순"
+ },
+ {
+  "QUESTION": "어버이날은 처음에는 OOO만 기념하는 ‘OOO날’로 시작했어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "어머니",
+  "INCORRECT_ANSWER_1": "아버지",
+  "INCORRECT_ANSWER_2": "할머니",
+  "INCORRECT_ANSWER_3": "어린이"
+ },
+ {
+  "QUESTION": "빼빼로데이는 양력 OO월 OO일로, 길쭉한 초콜릿 과자인 ‘빼빼로’를 주고받으며 마음을 전하는 날이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "11",
+  "INCORRECT_ANSWER_1": "10",
+  "INCORRECT_ANSWER_2": "12",
+  "INCORRECT_ANSWER_3": "13"
+ },
+ {
+  "QUESTION": "성탄절은 양력 12월 25일로, 기독교의 OO 탄생을 기념하는 날이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "예수",
+  "INCORRECT_ANSWER_1": "야수",
+  "INCORRECT_ANSWER_2": "부처",
+  "INCORRECT_ANSWER_3": "스님"
+ },
+ {
+  "QUESTION": "OOO는 음력 12월 31일인 섣달그믐날 약재 주머니를 우물 속에 담가 두었다가 다음날 아침에 꺼내서 술에 넣어 만든 약술이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "도소주",
+  "INCORRECT_ANSWER_1": "국화주",
+  "INCORRECT_ANSWER_2": "막걸리",
+  "INCORRECT_ANSWER_3": "창포주"
+ },
+ {
+  "QUESTION": "옛날 사람들은 다섯 가지 곡식으로 지은 밥인 OOO이나 약밥을 소쿠리에 담아 새들이 먹을 수 있도록 지붕이나 장독대, 담장 위에 올려놓았어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "오곡밥",
+  "INCORRECT_ANSWER_1": "볶음밥",
+  "INCORRECT_ANSWER_2": "도시락",
+  "INCORRECT_ANSWER_3": "누룽지"
+ },
+ {
+  "QUESTION": "음력 1월 15일인 정월 대보름날, 다른 마을의 디딜방아를 훔쳐 와서 마을 입구에 거꾸로 세워 두는 풍속은 무엇일까요?",
+  "ANSWER": "디딜방아훔치기",
+  "INCORRECT_ANSWER_1": "달집태우기",
+  "INCORRECT_ANSWER_2": "까치밥주기",
+  "INCORRECT_ANSWER_3": "다리밟기"
+ },
+ {
+  "QUESTION": "소돌걸기는 소가 있는 외양간 기둥에 구멍이 뚫린 돌을 걸어 두는 풍속으로 음력 1월 15일인 OOOOO에 해요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "정월 대보름",
+  "INCORRECT_ANSWER_1": "정월 초하루",
+  "INCORRECT_ANSWER_2": "섣달그믐",
+  "INCORRECT_ANSWER_3": "삼짇날"
+ },
+ {
+  "QUESTION": "OOO에 불때기는 정월 대보름날 아침이나 전날 저녁에 싸리나무 등을 아궁이에 넣어 불을 때는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "아궁이",
+  "INCORRECT_ANSWER_1": "장독대",
+  "INCORRECT_ANSWER_2": "솥단지",
+  "INCORRECT_ANSWER_3": "인덕션"
+ },
+ {
+  "QUESTION": "옛날 사람들은 정월 대보름날 귀신들이 OO가 돋친 엄나무를 보면 무서워서 집 안으로 들어오지 못한다고 믿었어요. O안에 안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "가시",
+  "INCORRECT_ANSWER_1": "뿌리",
+  "INCORRECT_ANSWER_2": "꽃잎",
+  "INCORRECT_ANSWER_3": "열매"
+ },
+ {
+  "QUESTION": "옛날 사람들은 남을 돕는 착한 일을 하면 복이 온다고 믿어서, 다리가 없는 개울에 사람들이 쉽게 건널 수 있도록 큰 O을 놓아두었어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "돌",
+  "INCORRECT_ANSWER_1": "나무",
+  "INCORRECT_ANSWER_2": "흙",
+  "INCORRECT_ANSWER_3": "짚단"
+ },
+ {
+  "QUESTION": "OOO는 정월 대보름 전날인 음력 1월 14일에 콩이 얼마나 불었는지를 살펴 한 해의 운을 점치는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "집불이",
+  "INCORRECT_ANSWER_1": "부럼깨기",
+  "INCORRECT_ANSWER_2": "콩볶기",
+  "INCORRECT_ANSWER_3": "귀밝이술"
+ },
+ {
+  "QUESTION": "OOO는 콩을 볶아 먹거나 볶은 콩을 밭에 뿌려, 한 해의 나쁜 일을 막고 농사가 잘 되기를 바라는 풍속이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "콩볶기",
+  "INCORRECT_ANSWER_1": "쥐불놀이",
+  "INCORRECT_ANSWER_2": "달맞이",
+  "INCORRECT_ANSWER_3": "부럼깨기"
+ },
+ {
+  "QUESTION": "OOOOO는 경상남도 사천시 가산리에서 정월 대보름에 즐기던 탈놀이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "가산오광대",
+  "INCORRECT_ANSWER_1": "봉산탈춤",
+  "INCORRECT_ANSWER_2": "고성오광대",
+  "INCORRECT_ANSWER_3": "통영오광대"
+ },
+ {
+  "QUESTION": "고성오광대는 문둥북춤, 양반과장, 비비과장, 승무과장, 저주밀과장의 OO 마당으로 이루어져 있어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "다섯",
+  "INCORRECT_ANSWER_1": "넷",
+  "INCORRECT_ANSWER_2": "여섯",
+  "INCORRECT_ANSWER_3": "일곱"
+ },
+ {
+  "QUESTION": "기세배에 사용하는 농신기는 용, 거북, 물고기 등 OO의 신으로 여겨지는 동물이 그려져 있어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "농사",
+  "INCORRECT_ANSWER_1": "바다",
+  "INCORRECT_ANSWER_2": "장사",
+  "INCORRECT_ANSWER_3": "산악"
+ },
+ {
+  "QUESTION": "동래야류는 문둥이마당, 양반과 말뚝이마당, 영노마당, OO과 OO마당으로 이루어져 있어요. OO과 O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "영감, 할미",
+  "INCORRECT_ANSWER_1": "남편, 아내",
+  "INCORRECT_ANSWER_2": "엄마, 아빠",
+  "INCORRECT_ANSWER_3": "오빠, 누나"
+ },
+ {
+  "QUESTION": "수영야류 탈놀이에서는 하인인 말뚝이가 힘센 OO의 잘못을 꾸짖고, 흉하게 생긴 괴물인 영노가 OO을 잡아먹는 이야기가 전해져요. O에 들어갈 말은 무엇일까요?",
+  "ANSWER": "양반",
+  "INCORRECT_ANSWER_1": "스님",
+  "INCORRECT_ANSWER_2": "왕",
+  "INCORRECT_ANSWER_3": "부인"
+ },
+ {
+  "QUESTION": "하회별신굿탈놀이는 경상북도 안동 OO마을에서 음력 1월 1일부터 15일까지 열리는 탈놀이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "하회",
+  "INCORRECT_ANSWER_1": "양동",
+  "INCORRECT_ANSWER_2": "야외",
+  "INCORRECT_ANSWER_3": "군자"
+ },
+ {
+  "QUESTION": "조선 시대에는 단오를 맞아 신하들이 시를 짓고, 그중 가장 잘 쓴 시를 궁궐의 OO에 붙였어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "기둥",
+  "INCORRECT_ANSWER_1": "책상",
+  "INCORRECT_ANSWER_2": "창문",
+  "INCORRECT_ANSWER_3": "대문"
+ },
+ {
+  "QUESTION": "OOOO은 단옷날에 새로 딴 앵두를 신에게 먼저 바치는 제사예요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "앵두천신",
+  "INCORRECT_ANSWER_1": "앵도숙",
+  "INCORRECT_ANSWER_2": "앵두화채",
+  "INCORRECT_ANSWER_3": "앵두정과"
+ },
+ {
+  "QUESTION": "강릉관노가면극은 말없이 O과 OO으로 이야기를 잘 표현해, 사람들에게 큰 웃음과 즐거움을 전해요. O과 OO안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "춤, 몸짓",
+  "INCORRECT_ANSWER_1": "노래, 악기",
+  "INCORRECT_ANSWER_2": "글, 그림",
+  "INCORRECT_ANSWER_3": "의상, 조명"
+ },
+ {
+  "QUESTION": "우리나라에만 있는 민물 거북인 남생이의 몸짓을 흉내 내며 노는 남생이놀이는 OO에 하던 놀이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "추석",
+  "INCORRECT_ANSWER_1": "설날",
+  "INCORRECT_ANSWER_2": "정월대보름",
+  "INCORRECT_ANSWER_3": "단오"
+ },
+ {
+  "QUESTION": "덕석말이는 OO을 돌돌 말았다가 다시 펴는 움직임을 흉내 내며 노는 놀이에요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "멍석",
+  "INCORRECT_ANSWER_1": "보자기",
+  "INCORRECT_ANSWER_2": "이불",
+  "INCORRECT_ANSWER_3": "광주리"
+ },
+ {
+  "QUESTION": "서산박첨지놀이는 떠돌아 다니며 공연하던 남사당패의 OOOOOO이라는 인형극에서 영향을 받았어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "꼭두각시놀음",
+  "INCORRECT_ANSWER_1": "봉산탈춤",
+  "INCORRECT_ANSWER_2": "안동탈춤",
+  "INCORRECT_ANSWER_3": "양주별산대놀이"
+ },
+ {
+  "QUESTION": "물을 다스리는 OO과 관련이 있다고 생각해서 지와밟기 놀이를 하며 농사가 잘되고 풍요롭길 바랐어요. O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "용신",
+  "INCORRECT_ANSWER_1": "화신",
+  "INCORRECT_ANSWER_2": "지신",
+  "INCORRECT_ANSWER_3": "천신"
+ },
+ {
+  "QUESTION": "강강술래 놀이 가운데 하나로, 사람들이 손을 잡고 줄지어 서서 청어라는 물고기를 엮는 모습처럼 팔을 엮었다 풀었다 하며 노는 놀이는 무엇일까요?",
+  "ANSWER": "청어엮기",
+  "INCORRECT_ANSWER_1": "달팽이진",
+  "INCORRECT_ANSWER_2": "덕석놀이",
+  "INCORRECT_ANSWER_3": "남생이놀이"
+ },
+ {
+  "QUESTION": "‘더도 말고 덜도 말고 늘 가윗날만 같아라’는 속담은 어떤 날을 뜻할까요?",
+  "ANSWER": "추석",
+  "INCORRECT_ANSWER_1": "새해",
+  "INCORRECT_ANSWER_2": "단오",
+  "INCORRECT_ANSWER_3": "동지"
+ },
+ {
+  "QUESTION": "동지헌말은 농사가 잘되고 OO가 많이 생기기를 바라는 마음이 담긴 풍속이에요.  O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "아이",
+  "INCORRECT_ANSWER_1": "곡식",
+  "INCORRECT_ANSWER_2": "돈",
+  "INCORRECT_ANSWER_3": "수명"
+ },
+ {
+  "QUESTION": "OOO은 동짓날에 먹는 음식인 팥죽으로 다음 해의 농사와 날씨, 그리고 태어날 아기의 성별을 미리 점쳐 보는 풍속이에요.  O안에 들어갈 말은 무엇일까요?",
+  "ANSWER": "팥죽점",
+  "INCORRECT_ANSWER_1": "추석점",
+  "INCORRECT_ANSWER_2": "콩죽점",
+  "INCORRECT_ANSWER_3": "쌀죽점"
  }
 ]
