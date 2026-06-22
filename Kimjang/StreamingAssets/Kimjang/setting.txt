@@ -1,0 +1,3 @@
+# Kimjang (김장하기) default setting — 화전만들기와 동일 키
+cooking_duration = 10
+cook_shake_count = 30
