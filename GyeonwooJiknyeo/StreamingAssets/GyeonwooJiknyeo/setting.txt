@@ -3,41 +3,41 @@
 # ============================================================
 # 규칙:
 #   # N스테이지     → 해당 스테이지 시작 (필수)
-#   # bgm=... | noteName=... | timeLimit=80 | playbackSpeed=1.2  → 이 다음 한 줄의 노트에 적용 (선택, timeLimit은 초 단위)
+#   # bgm=... | bgmName=... | noteName=... | timeLimit=80 | playbackSpeed=1.2  → 이 다음 한 줄의 노트에 적용 (선택, timeLimit은 초 단위)
 #   → ← ↑ ↓ ⊙     → 키 시퀀스 한 줄 (공백 구분)
 # ============================================================
 
 # 1단계
 # 1스테이지
-# bgm=1라운드-1 견우와 직녀 - 국악 배경음악 #99.mp3 | noteName=노트 1 | timeLimit=60
+# bgm=1라운드-국악 배경음악 #99.mp3 | bgmName=국악 배경음악 #99 / 공유마당(한국저작권위원회) / CC BY | noteName=노트 1 | timeLimit=60
 → → ↑ ↓ ⊙ ← ↓ ← ↓ → → ↓ ⊙ → → ↑ ↑ ⊙ ← ←
-# bgm=1라운드-2 견우와 직녀-국악 배경음악 #66.mp3 | noteName=노트 2 | timeLimit=60
+# bgm=1라운드-국악 배경음악 #99.mp3 | bgmName=국악 배경음악 #99 / 공유마당(한국저작권위원회) / CC BY | noteName=노트 2 | timeLimit=60
 ↑ ↑ → ↓ ← ⊙ ↓ ↓ → ← ↑ ⊙ → → ↓ ← ↑ ↑ → ⊙
 
 # 2단계
 # 2스테이지
-# bgm=2라운드-1 견우와 직녀 만남 - 국악 배경음악 #78.mp3 | noteName=노트 3 | timeLimit=50
+# bgm=2라운드-국악 배경음악 #203.mp3 | bgmName=국악 배경음악 #203 / 공유마당(한국저작권위원회) / CC BY | noteName=노트 3 | timeLimit=50
 ← ↑ ← ↑ ⊙ → ↓ → ↓ ↑ ↑ ⊙ ← ← → → ↓ ↑ ⊙ ↓
-# bgm=2라운드-2 이별 전조 -국악 배경음악 #88.mp3 | noteName=노트 4 | timeLimit=50
+# bgm=2라운드-국악 배경음악 #203.mp3 | bgmName=국악 배경음악 #203 / 공유마당(한국저작권위원회) / CC BY | noteName=노트 4 | timeLimit=50
 ↑ → ↑ → ↓ ⊙ ← ↓ ← ↓ ↑ ← ↑ → ⊙ ↓ ↓ → ↑ ←
 
 # 3단계
 # 3스테이지
-# bgm=3라운드-1 이별, 그리움 - 58_그리움.mp3 | noteName=노트 5 | timeLimit=40
+# bgm=3라운드-국악 배경음악 #88.mp3 | bgmName=국악 배경음악 #88 / 공유마당(한국저작권위원회) / CC BY | noteName=노트 5 | timeLimit=40
 → ↑ ↓ ← ⊙ ↑ → ↑ ↓ ← ⊙ ↓ ← ↓ → ↑ ⊙ ↑ ↑ ↓ ← → ↓ → ⊙
-# bgm=3라운드-2 이별, 그리움 - 국악 배경음악 #111.mp3 | noteName=노트 6 | timeLimit=40
+# bgm=3라운드-국악 배경음악 #88.mp3 | bgmName=국악 배경음악 #88 / 공유마당(한국저작권위원회) / CC BY | noteName=노트 6 | timeLimit=40
 ↓ ↓ → ← ↑ ⊙ → → ↑ ↓ ← ⊙ ↑ ← ↑ ↓ → ⊙ ← → ↓ ↑ ← ↑ ↑
 
 # 4단계
 # 4스테이지
-# bgm=4라운드 오작교 만들기- 국악 배경음악 #85.mp3 | noteName=노트 7 | timeLimit=30 | playbackSpeed=1.2
+# bgm=4라운드-국악 배경음악 #131.mp3 | bgmName=국악 배경음악 #131 / 공유마당(한국저작권위원회) / CC BY | noteName=노트 7 | timeLimit=30 | playbackSpeed=1.2
 ↑ → ↓ ← ⊙ ↑ ↑ → ⊙ ↓ ↓ ← → ⊙ ↑ ↓ ↑ → ← → ⊙ ↓ ← ↑ ↑
-# bgm=4라운드 오작교 만들기- 국악 배경음악 #85.mp3 | noteName=노트 8 | timeLimit=30 | playbackSpeed=1.2
+# bgm=4라운드-국악 배경음악 #131.mp3 | bgmName=국악 배경음악 #131 / 공유마당(한국저작권위원회) / CC BY | noteName=노트 8 | timeLimit=30 | playbackSpeed=1.2
 ← ← ↑ → ⊙ ↓ ↑ ↓ ⊙ → → ↑ ← ⊙ ↑ ↓ ← → ↑ ⊙ ↓ → ↓ ↑ →
 
 # 5단계
 # 5스테이지
-# bgm=5라운드-1 기쁨의 재회- 국악 배경음악 #203.mp3 | noteName=노트 9 | timeLimit=25 | playbackSpeed=1.2
+# bgm=5라운드-국악 배경음악 #212.mp3 | bgmName=국악 배경음악 #212 / 공유마당(한국저작권위원회) / CC BY | noteName=노트 9 | timeLimit=25 | playbackSpeed=1.2
 ↑ ↓ → ← ⊙ ↑ → ↓ ↑ ⊙ ← → ↑ ↓ ← ⊙ ↓ ↑ → ← ↑ ↓ → ← ⊙ ↑ ↓ ↑ → →
-# bgm=5라운드-2 기쁨의 재회 - 국악 배경음악 #212.mp3 | noteName=노트 10 | timeLimit=25 | playbackSpeed=1.2
+# bgm=5라운드-국악 배경음악 #212.mp3 | bgmName=국악 배경음악 #212 / 공유마당(한국저작권위원회) / CC BY | noteName=노트 10 | timeLimit=25 | playbackSpeed=1.2
 → ↑ ← ↓ ↑ ⊙ ↓ → ↑ ← ⊙ ↑ ↓ ← → ↑ ⊙ ↓ ← ↑ → ↓ ↑ ← → ⊙ ↑ → ↓ ↑ ↑
