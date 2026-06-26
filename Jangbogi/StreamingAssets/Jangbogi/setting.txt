@@ -9,10 +9,10 @@
 game_duration=120
 
 mission_1_message=다롱아, 떡국을 만들려고 하는데 재료가\n없구나. 시장에 가서 좀 사다 주겠니?
-mission_1_ingredients=가래떡, 소고기, 계란, 만두
+mission_1_ingredients=가래떡, 소고기, 계란, 만두, 김가루
 
 mission_2_message=다롱아, 차례상에 올릴 음식이 부족하구나.\n시장에 가서 좀 사다 주겠니?
-mission_2_ingredients=조기, 북어포, 전, 수육, 나물, 사과, 배, 대추, 감, 밤
+mission_2_ingredients=조기, 북어포, 육전, 수육, 나물, 사과, 배, 대추, 곶감, 밤
 
 
 mission_3_message=다롱아, 설에 먹을 전통 간식과 음료가\n없구나. 시장에 가서 좀 사다 주겠니?
