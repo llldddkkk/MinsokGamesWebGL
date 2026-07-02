@@ -16,4 +16,4 @@ mission_2_ingredients=조기, 북어포, 육전, 수육, 나물, 사과, 배, �
 
 
 mission_3_message=다롱아, 설에 먹을 전통 간식과 음료가\n없구나. 시장에 가서 좀 사다 주겠니?
-mission_3_ingredients=강정, 유과, 약과, 식혜, 수정과
+mission_3_ingredients=강정, 유과, 약과, 식혜, 수정과, 곶감
