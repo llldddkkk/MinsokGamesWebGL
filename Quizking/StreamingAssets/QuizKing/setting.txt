@@ -1,6 +1,6 @@
 # 퀴즈왕 게임 설정
 # question_count: 한 판에 출제할 문항 수 (기본 10)
-# question_time_limit: 문항당 제한 시간(초, 기본 10)
+# question_time_limit: 문항당 제한 시간(초, 기본 20)
 
 question_count=10
-question_time_limit=10
+question_time_limit=20
